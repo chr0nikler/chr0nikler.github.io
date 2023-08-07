@@ -18,17 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chronicles
+title: Joraaver 
 email: joraaverchahal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Joraaver Chahal
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "chr0nikler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: chr0nikler
 
+layout:
+  theme: nord
+  posts_home: /blog/
+
+defaults:
+  - scope:
+      path: '_posts'
+      type: 'posts'
+    values:
+      layout: 'post'
+      permalink: '/:year/:title/'
+  - scope:
+      path: '_redirect'
+      type: 'pages'
+    values:
+      layout: 'redirect'
+
 # Build settings
-theme: hitchens-theme
+remote_theme: oinam/oinam-jekyll
+
   #show_excerpts: true
 plugins:
   - jekyll-feed
