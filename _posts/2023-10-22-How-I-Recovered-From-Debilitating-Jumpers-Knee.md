@@ -5,6 +5,8 @@ date: 2023-10-22 00:13:20 -0800
 tags: [training, rehab] 
 ---
 
+Reading Time: 23 minutes. Settle in.
+
 TL;DR: 
 
 - If it's acute, recovery is easy. Just rest and it will recover. Then ramp up your volume. You will succeed.
