@@ -5,7 +5,7 @@ date: 2023-10-22 00:13:20 -0800
 tags: [training, rehab] 
 ---
 
-Reading Time: 23 minutes. Settle in.
+*Reading Time: 23 minutes*
 
 TL;DR: 
 
