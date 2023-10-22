@@ -2,7 +2,7 @@
 layout: post
 title: "The Picture of Dorian Gray: Book Summary"
 date: 2021-01-17 11:32:00 -0800
-categories: book
+tags: [book]
 ---
 *What happens when we confuse beauty with substance?*
 

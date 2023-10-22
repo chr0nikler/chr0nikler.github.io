@@ -2,7 +2,7 @@
 layout: post
 title: "Making Sense of My Injuries: A Lesson in Humility"
 date: 2021-01-29 01:09:00 -0800
-categories: training
+tags: [training]
 ---
 
 Last year, on this day, I had ACL surgery. My fourth surgery to date. My third surgery due to sport or physical training. My ... I’ve lost count of the number of injuries. The last few years haven’t been pleasant for my body. I thought today would be an appropriate day to publish a reflection on my training, what I’ve been through, and what I’ve learned.

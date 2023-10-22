@@ -2,7 +2,7 @@
 layout: post
 title: "Mindhunter: Book Summary"
 date: 2021-02-07 01:09:00 -0800
-categories: book
+tags: [book]
 ---
 *"To understand the 'artist,' you must study his 'art.'"*
 

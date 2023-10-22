@@ -1,10 +1,4 @@
 
-NOTES:
-need the actual "try it anywhere, see how you feel" logic
-different feet positions for loading
-introduction of more exercise to improve volume exposure
-talk about VISA-P
-
 TL;DR: 
 
 - If it's acute, recovery is easy. Just rest and it will recover. Then ramp up your volume. You will succeed.
@@ -14,16 +8,16 @@ TL;DR:
 
 ## Why Write About This?
 
-I wanted to write this post because I have a very good technical grasp of the emotional and physical toll jumper's knee has on an individual as well as the nuances of rehab. I'm an individual who has recovered from it and coached others to return sport from it too. My journey includes its peculiarities that some may find useful as well.
+I wanted to write about this because I have a very good technical grasp of the emotional and physical toll jumper's knee has on an individual as well as the nuances of rehab. I'm an individual who has recovered from it and coached others to return to sport from it too. My journey includes its peculiarities that some may find useful as well.
 
-The other reason is because I wrote  **TODO** [this post](http://localhost:4000/2021/Making-Sense-of-My-Injuries/) a year ago. Do I feel silly for suffering from plantar fasciitis (a story for another day as well) and jumper's knee after writing it? Absolutely not. Nobody said writing about my injuries or "expressing humility" was going to make me more resilient. I still play my heart out when I step on the field. I just calibrate to injuries faster, become less emotional about them, and am now a far more valuable resource to others because of them. That is why I write.
+The other reason is because I wrote [this post](http://localhost:4000/2021/Making-Sense-of-My-Injuries/) two years ago. Do I feel silly for suffering from plantar fasciitis (a story for another day as well) and jumper's knee after writing it? Absolutely not. Nobody said writing about my injuries or "expressing humility" was going to make me more resilient. I still play my heart out when I step on the field. I just calibrate to injuries faster, become less emotional about them, and am now a far more valuable resource to others because of them. That is why I write.
 
 ## How this post is structured
 
 1. What is jumper's knee (and does it affect you?).
 2. How I got jumper's knee
 3. How I rehabbed jumper's knee.
-4. How I went from barely jumping dunking.
+4. Where I am now.
 
 This article will be long and in-depth. I will address the above points in a factual fashion first, and then add my perspective as a patient. I do not touch on the science behind why certain aspects of recovery work. It burdens you with additional knowledge that has no bearing on your ability to recover. If the reader wishes to know more for his or her personal gain, just contact me and I can forward you additional sources. Podcasts, research articles, etc.
 
@@ -42,7 +36,9 @@ Second, its symptoms are simple:
 3. Your pain begins as a slight soreness in the morning that goes away with a little warm-up, but over the course of a few months it becomes a constant pain, occurring during sport or walking down the stairs. 
 4. You participate in an extremely heavy jumping or cutting sport.
 
-<img src="" />
+<figure>
+  <img src="" />
+</figure>
 
 Third, it's cause is best summarized by Jake Tuura as follows: "it's always a load issue, and sometimes it's a biomechanics issue." What he means by that is an individual suffering from jumper's knee might have tight or weak muscles leading to improper movement patterns, or have none of that. Regardless, the sufferer went from doing little to no jumping or cutting, to doing a lot of cutting or jumping, in a very short amount of time. That spike in volume brought on the condition.
 
@@ -50,17 +46,17 @@ If these apply to you, you have patellar tendinopathy, a.k.a. jumper's knee.
 
 The condition is "acute" when the symptoms have been present for less than 2-3 months. Any more than that and the condition is considered "chronic."
 
-If you, like me, did more research, you will find that some classify the tendon's state in more detail. One such category is "degenerative." Throw this vocabulary out of your head. It only matters to a clinician and has no place in a patient's mindset. It makes rehab emotionally taxing than it needs to be. 
+If you, like me, did more research, you will find that some classify the tendon's state in more detail. One such category is "degenerative." Throw this vocabulary out of your head. It only matters to a clinician and has no place in a patient's mindset. Don't add unnecessary emotional drama; it doesn't change the process. 
 
 ## How I Got Jumper's Knee
 
-I'm a special case. In 2019 I tore my anterior cruciate ligament (ACL) in my right knee. A day before my birthday, in fact. In January of 2020 I had ACL reconstruction done using my patellar tendon on my right knee. I was aware that I was at a higher risk of getting jumper's knee given that a piece of my tendon was missing. However, I had very little guidance during my rehab, so just note that it wasn't easy to tell if the front knee pain I felt was from the surgery or not. I even passed my return to sport testing for ACL reconstruction even though I told the physical therapist I was in a considerable amount of pain. I have a lot to unpack about this particular point, but it's an article for another day.
+In 2019 I tore my anterior cruciate ligament (ACL) in my right knee. A day before my birthday, in fact! In January of 2020 I had ACL reconstruction done using my patellar tendon on my right knee. I was aware that I was at a higher risk of getting jumper's knee given that a piece of my tendon was missing. However, I had very little guidance during my rehab, so just note that it wasn't easy to tell if the front knee pain I felt was from the surgery or not. I even passed my return to sport testing for ACL reconstruction even though I told the physical therapist I was in a considerable amount of pain. I have a lot to unpack about this particular point, but it's an article for another day.
 
-I started playing more volleyball in the summer of 2021 and continued to experience a little bit of pain. At this point, while I was well past return to sport guidelines for ACL reconstruction (9-12 months), front knee pain due to a patellar tendon autograft can sometimes last for ten years. Unfortunately, as I played more, it became apparent that the pain was increasing. That and I realized all the above symptoms checked out. A whole year had passed since the start of this ongoing battle. So in the spring of 2022 I did the hard thing. I admitted to myself that I had a serious case of jumper's knee and stopped playing all volleyball.
+I started playing more volleyball in the summer of 2021 and continued to experience a little bit of pain. At this point, while I was well past return to sport guidelines for ACL reconstruction (9-12 months), front knee pain due to a patellar tendon autograft can last a long time. Unfortunately, as I played more, it became apparent that the pain was increasing. That and I realized all the above symptoms checked out. A whole year had passed since the start of this ongoing battle. So in the spring of 2022 I did the hard thing. I admitted to myself that I had a serious case of jumper's knee and stopped playing all volleyball.
 
 ## How I Rehabbed My Jumper's Knee
 
-I started with a visit to physical therapy. That was a mistake. 15 Step Downs later and I felt no better, nor was I given a recipe for success. Let this be a lesson to you all. Physical therapy and tendinopathy do not mix. You will learn why towards the end of this article. 
+I started with a visit to physical therapy. That was a mistake. 15 Step Downs later and I felt no better, nor was I given a recipe for success. Let this be a lesson to you all. Classic, insurance-based physical therapy and tendinopathy do not mix. You will learn why towards the end of this article. 
 
 After an underwhelming physical therapy experience, I took it upon myself to understand everything about my problem. To be brief, everything I know can be attributed to [Jake Tuura's videos]() on fixing patellar tendon pain. He is the best at distilling information from the world's most knowledgeable researcher, like Jill Cook and Keith Baar, and informing the common athlete. Here's what you should know:
 
@@ -72,7 +68,9 @@ After an underwhelming physical therapy experience, I took it upon myself to und
 
 Now comes my personal experience.
 
-First of all, stopping all sport is rough. Especially if it's your main social circle. I'm fortunate enough to have a twin who experienced the same issue previously, so I wasn't alone in the process. However, watching him play volleyball for our team while I watched from the sidelines was hard. But after having torn my ACL, I was familiar with the concept of stopping sport and how that would affect me. Like I said in the beginning, it's not a question of whether or not you'll be injured, but how you respond to the fact that you are injured. So I buckled up and decided I was in it for the long haul.
+First of all, stopping all sport is rough. Especially if it's your main social circle. If you are an athlete and this is your first major injury, it'll challenge your identity. If you feel empty without your sport, begin to isolate yourself from your teammates, or get angry because you feel like those who ask after your health are pitying you, then it's as I said. I've experienced this. But jumper's knee isn't career ending, so take heart. Regardless, you may want [to read this](https://playerdevelopmentproject.com/whats-next-a-perspective-of-athlete-identity/).
+
+I'm fortunate enough to have a twin who experienced the same issue previously, so I wasn't alone in the process. However, watching him play volleyball for our team while I watched from the sidelines was hard. But after having torn my ACL, I was familiar with the concept of stopping sport and how that would affect me. Like I said in the beginning, it's not a question of whether or not you'll be injured, but how you respond to the fact that you are injured. So I buckled up and decided I was in it for the long haul.
 
 After consuming all of Jake Tuura's three minute lectures on different aspects of fixing jumper's knee, I bought his book "Jumper's Knee Protocol" or has he refers to it, JKP. I combed through that too, and started to experiment with my rehab plan. I use the word "experiment" with great intention.
 
@@ -96,8 +94,10 @@ This is when my peculiarities began to surface. For whatever reason, my surgical
 
 Fragile, easily provoked tendons can take 6-8 weeks of diligent rehab before changes are felt. This tracks with my experience. Do not give up if you feel nothing has changed. Tendon function is like a step function. You'll feel nothing change until, overnight, you feel everything change. Take it all in stride.
 
-<img class="medium" src="/assets/images/step_function_2.png" />
-<em>The pain will fluctuate slightly during your training until a certain point, after which significant relief is felt and pain stabilizes around a new, lower point. All the while function of knee, or what load it is capable of lifting, while experiencing the same amount of pain, will slowly increase.</em>
+<figure>
+  <img class="content" src="/assets/images/step_function_2.png" />
+  <em>The pain will fluctuate slightly during your training until a certain point, after which significant relief is felt and pain stabilizes around a new, lower point. All the while function of knee, or what load it is capable of lifting, while experiencing the same amount of pain, will slowly increase.</em>
+</figure>
 
 
 ### Stage 2: Isotonics
@@ -116,8 +116,10 @@ At then end of each of Jake Tuura's videos, Jake says, "Try it, see if it works 
 
 On that note, I tried all the recommendations. None of them made me feel "good." This was again, discouraging. After all, Jake Tuura touts the Leg Extension as the gold standard of patellar tendon rehab.  So I took a look at all my options, and landed on this machine:
 
-<img class="medium" src="/assets/images/machine_leg_press.jpg" />
-<em>Most standard commercial gyms have this</em>
+<figure>
+  <img class="content" src="/assets/images/machine_leg_press.jpg" />
+  <em>Most standard commercial gyms have this</em>
+</figure>
 
 Machine Leg Press is its name.
 
@@ -131,7 +133,10 @@ Does that sound like impressive progress? Don't be so surprised. Once you get th
 
 If you are like me, you are in this position not only because you jumped a lot, but because you did so while being weak. Rehab exposes your weakness. I began to find 4 sets of 8 reps doing 3 seconds down, 3 seconds up with 100lb on one leg rather taxing. That had to change. Here is my training log from the end of August till January 11 of 2023 (read it from the bottom up): 
 
-<img class="medium" src="/assets/images/machine_leg_press_tracked.png" />
+<figure>
+  <img class="content" src="/assets/images/machine_leg_press_tracked.png" />
+  <em>I'm using a software named QuickCoach to track workouts</em>
+</figure>
 
 From August to early December, I was making good progress. Any lifter would be envious of such easy progress. But that's what tendon rehab looks like if done well. The pain didn't change during those weeks, but function was improving hand over fist. Then, in mid December, I committed to playing in the Winter 2023 Industrial Volleyball League (IVL) season. I decided that my eccentric needs far outweighed my concentric needs. I didn't care for how high I jumped. I just needed to be able to handle 80+ landings a night. My decision to switch was also influenced by research on the specificity of training regarding eccentric only training vs eccentric concentric training, in which the concentric group got better at concentric based testing. I surprised myself with how much progress I made in those 4 weeks, handling up to 200 lbs eccentrically for 4 seconds for 3 sets of 5. January 10th, 2023 was our first match. 
 
@@ -149,12 +154,16 @@ I mapped out exactly how often I would be jumping as a middle blocker by using t
 
 Here are the main infographics reproduced for ease of viewing:
 
-<img class="medium" src="/assets/images/jumps_per_match.webp" />
-<em>Middle blockers jump about 100 times over the course of a match, with each jump about 75% their max jump height.</em>
+<figure>
+  <img class="content" src="/assets/images/jumps_per_match.webp" />
+  <em>Middle blockers jump about 100 times over the course of a match, with each jump about 75% their max jump height.</em>
+</figure>
 
 
-<img class="medium" src="/assets/images/jumps_per_set.png"/>
-<em>Middle blockers jump about 22-25 times a set.</em>
+<figure>
+  <img class="content" src="/assets/images/jumps_per_set.png"/>
+  <em>Middle blockers jump about 22-25 times a set.</em>
+</figure>
 
 Our game nights were four sets, so I decided that reaching 80-100 maximum jumps with no pain the next day would deem me ready. I worked backwards from there. As always, I stuck to the principle of volume first, then intensity.
 
@@ -169,7 +178,7 @@ If this starts to look less like jump training and more like conditioning, you'd
 
 My early training also include some split landing work, but only a small amount. I mentioned earlier about the takeoff and landings involved in my sport. Very few were going to by right leg single leg landings. In the next section you'll understand why that matters.
 
-My training is tailored to my sport too. A soccer player would not train like this. Tailor your training to your sport to rebuild the neuromuscular skills and patters in order to avoid injury.
+My training is tailored to my sport too. A soccer player would not train like this. Tailor your training to your sport to rebuild the neuromuscular skills and patterns in order to avoid injury.
 
 ### Stage 4: Return to Sport
 
@@ -181,17 +190,37 @@ By the start of January, I had completed my training. But I was still nervous. H
 
 Given all the points above, I even filled out a questionnaire to put my feelings into a quantitative measure of readiness. This is known as the [VISA-P](https://www.sralab.org/rehabilitation-measures/victorian-institute-sport-assessment-visa-questionnaire-patellar-tendon).
 
-<img class="medium" src="/assets/images/visap_jan_08.png" />
+<figure>
+  <img class="content" src="/assets/images/visap_jan_08.png" />
+  <em>Is a 72 good or bad? Hard to say, but I okay with it. Heavy emphasis on "okay."</em>
+</figure>
 
-I was ready. In fact, I was over-prepared. I don't know many volleyball players in the recreational leagues who have jumper's knee as bad as I did and return to playing middle blocker in full capacity. 
+I haven't seen many individuals discuss or use the VISA-P. However, it did expose a glaring weakness in my single-leg hopping confidence. To this date, single-leg jumping scares me the most. I'm working on it, starting with horizontal bounding, but it's still a work in progress.
 
-Full capacity means playing volleyball two to three times a week as middle blocker and jumping with as much intent as possible 60-80 times a night with no residual effects. Here are my numbers on the same machine from January till now:
+Fortunately, I was over-prepared. I woke up the first night after our league-games with no pain. After a few more weeks of playing, I decided to forgo the patellar tendon strap too. I never wore it during my training, why should I need it for my sport? If anything, it was an emotional blanket, and it felt good to let it go.
 
 
-<img class="medium" src="/assets/images/machine_leg_press_tracked_v2.png" />
-<em>Once again, my latest workout is at the top</em>
+## Where am I now?
+
+I've been playing volleyball two to three times a week as middle blocker or outside hitter. The only times I say no to volleyball are to stick to the rule of no back-to-back days. General guidelines suggest no more than three times a week of heavy sport and never back-to-back for returning to sport from jumper's knee.
+
+Here's my progress on that same exercise:
+
+<figure>
+  <img class="content" src="/assets/images/machine_leg_press_tracked_v2.png" />
+  <em>Once again, my latest workout is at the top</em>
+</figure>
 
 It took me four months to go from nothing to 3 sets of 5 reps of 150 lb with 180 rest at about a 2 second down, 2 second up pace, and then another seven months to up that to 160 lbs. That's not phenomenal progress. However, given that I never stopped playing volleyball two-three times a week, and only proceeded to get stronger, jump higher (for another post), and get better at my sport. Win win in my book.
+
+I took another VISA-P at the beginning of August too:
+
+<figure>
+  <img class="content" src="/assets/images/visap_aug_05.png" />
+  <em>Anything in the 90's must be fantastic</em>
+</figure>
+
+As you can see, I am now much more confident in my hopping abilities. Single leg hopping isn't perfect, but my confidence and perception of pain are improving too.
 
 ## Summary
 
@@ -201,22 +230,9 @@ If I could do it again, what would I change?
 
 That's what jumper's knee boils down to. It's simple. I would have had less rehab to do, experienced less pain, and returned to sport slightly sooner. After all, my programming was not complicated. 
 
-1. Stop playing sport.
-2. Start doing easy, no movement exercises.
-3. Start doing easy, high-volume shallow range of motion exercises.
-4. Start doing heavy, low-volume shallow range of motion exercises.
-5. Start doing easy, high-volume large range of motion exercises.
-6. Start doing heavy, low-volume large range of motion exercises.
-7. Start doing easy low-volume jumping exercises.
-8. Start doing easy, high-volume jumping exercises.
-9. Start doing heavy, low-volume jumping exercises.
-10. Start playing sport
+The hardest part of this journey is the emotional aspect of it, not the physical.
 
-There. A  10 step protocol for return to sport. Doesn't that look easy?
-
-It's not. 
-
-I believe the hardest part of this journey is the emotional aspect of it, not the physical. It impacts our ability to socialize and participate in activities, which can then eat into our mental health. Many educated individuals like Jake Tuura have simple four or five step protocols that outline precisely what you have to do to return to sport. What makes personal training for conditions like jumper's knee valuable is the ability to reassure the athlete that what they are doing is working, even if nothing changes. If you are going through this alone, then it requires a certain amount of faith that the process will work and the resolve to do work when you see no progress in pain. Insanity is doing the same thing over and over and expecting different results, right? Well it might feel like you are going insane, but sometimes that's exactly what you have to do with conditions like jumper's knee. Besides, you likely will see improvements in "function," like adding a little more weight in your exercises, even when you notice no change in daily existence. But if you don't have experience with injuries and this is a totally new domain to you, it can be a frustrating experience. If that happens to you, talking with an experienced individual can change everything.
+It impacts our ability to socialize and participate in activities, which can then eat into our mental health. Many educated individuals like Jake Tuura have simple four or five step protocols that outline precisely what you have to do to return to sport. What makes personal training for conditions like jumper's knee valuable is the ability to reassure the athlete that what they are doing is working, even if nothing changes. If you are going through this alone, then it requires a certain amount of faith that the process will work as well as the resolve to do the work when you see no progress. Insanity is doing the same thing over and over and expecting different results, right? Well it might feel like you are going insane, but sometimes that's exactly what you have to do with conditions like jumper's knee. Besides, you likely will see improvements in "function," like adding a little more weight in your exercises, even when you notice no change in daily existence. But if you don't have experience with injuries and this is a totally new domain to you, it can be a frustrating experience. If that happens to you, talking with an experienced individual can change everything.
 
 ## What's next?
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The Magic of Thinking Big: Book Summary"
 date: 2020-12-15 16:14:00 -0800
-categories: book
+tags: [book]
 ---
 *Success is an unfailing mindset repeatedly committed to and acted upon.*
 

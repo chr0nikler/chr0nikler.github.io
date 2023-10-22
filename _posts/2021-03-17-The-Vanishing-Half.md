@@ -2,7 +2,7 @@
 layout: post
 title: "The Vanishing Half: Book Summary"
 date: 2021-03-17 05:23:00 -0800
-categories: book
+tags: [book]
 ---
 *As children, we dream of who we will be. As adults, we wonder about who it is we have become.*
 
