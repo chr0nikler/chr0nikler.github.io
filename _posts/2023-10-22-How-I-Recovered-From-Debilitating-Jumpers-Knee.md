@@ -27,7 +27,7 @@ Another reason is because I wrote [this post](http://localhost:4000/2021/Making-
 3. How I rehabbed Jumper's Knee.
 4. Where I am now.
 
-This article will be long and in-depth. I will address the above points in a factual fashion first, and then add my perspective as a patient. I do not touch on the science behind why certain aspects of recovery work. It burdens you with additional knowledge that has no bearing on your ability to recover. If the reader wishes to know more for his or her personal gain, just contact me and I can forward you additional sources. Podcasts, research articles, etc. You can save yourself some time and look up "Jake Turra." He has all the answers.
+This article will be long and in-depth. I will address the above points in a factual fashion first, and then add my perspective as a patient. I do not touch on the science behind why certain aspects of recovery work. It burdens you with additional knowledge that has no bearing on your ability to recover. If the reader wishes to know more for his or her personal gain, just contact me and I can forward the sources. Podcasts, research articles, etc. You can save yourself some time and look up "Jake Tuura." He has all the answers.
 
 I will also avoid as much clinical terminology as possible. I will only introduce it if, in your attempts to find out more about the problem, these terms come up and it behooves you to know them rather than run from them.
 
@@ -35,7 +35,7 @@ With that, let's begin.
 
 ## What is Jumper's Knee
 
-First, its clinical term is Patellar Tendinopathy. The patellar tendon starts at your kneecap and ends at the top of your shin bone.
+First, its clinical term is Patellar Tendinopathy. The patellar tendon starts at the kneecap and ends at the top of the shin bone.
 
 Second, its symptoms are simple:
 
@@ -58,7 +58,7 @@ If you, like me, did more research, you will find that some classify the tendon'
 
 ## How I Got Jumper's Knee
 
-In 2019 I tore my anterior cruciate ligament (ACL) in my right knee. A day before my birthday, in fact! In January of 2020 I had ACL reconstruction done using my patellar tendon on my right knee. I was aware that I was at a higher risk of getting Jumper's Knee given that a piece of my tendon was missing. However, I had very little guidance during my rehab, so just note that it wasn't easy to tell if the front knee pain I felt was from the surgery or not. I even passed my return to sport testing for ACL reconstruction even though I told the physical therapist I was in a considerable amount of pain. I have a lot to unpack about this particular point, but it's an article for another day.
+In 2019 I tore my anterior cruciate ligament (ACL) in my right knee. A day before my birthday, in fact! In January of 2020 I had ACL reconstruction done using my patellar tendon on my right knee. I was aware that I was at a higher risk of getting Jumper's Knee given that a piece of my tendon was missing. However, I had very little guidance during my rehab, so just note that it wasn't easy to tell if the front knee pain I felt was from the surgery or not. I passed my return to sport testing for ACL reconstruction even though I told the physical therapist I was in a considerable amount of pain. There is a lot unpack about this particular point, but it's an article for another day.
 
 I started playing more volleyball in the summer of 2021 and continued to experience a little bit of pain. At this point, while I was well past return to sport guidelines for ACL reconstruction (9-12 months), front knee pain due to a patellar tendon autograft can last a long time. Unfortunately, as I played more, it became apparent that the pain was increasing. That and I realized all the above symptoms checked out. A whole year had passed since the start of this ongoing battle. So in the spring of 2022 I did the hard thing. I admitted to myself that I had a serious case of Jumper's Knee and stopped playing all volleyball.
 
