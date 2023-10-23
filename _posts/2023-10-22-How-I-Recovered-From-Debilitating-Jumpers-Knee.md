@@ -16,7 +16,7 @@ TL;DR:
 
 ## Why Write About This?
 
-I wanted to write about this because I have a very good technical grasp of problem as well as the emotional and physical toll Jumper's Knee has on an individual. I'm an individual who has recovered from it and coached others to return to sport from it too. My journey includes its own peculiarities that some may find useful.
+I wanted to write about this because I have a very good technical grasp of the problem as well as the emotional and physical toll Jumper's Knee has on an individual. I've recovered from it and coached others to return to sport from it too. My journey includes its own peculiarities that some may find useful.
 
 Another reason is because I wrote [this post](http://localhost:4000/2021/Making-Sense-of-My-Injuries/) two years ago. Do I feel silly for suffering from Plantar Fasciitis (a story for another day as well) and Jumper's Knee after writing it? Absolutely not. Nobody said writing about my injuries or "expressing humility" was going to make me more resilient. I still play my heart out when I step on the field. I just calibrate to injuries faster, become less emotional about them, and am now a far more valuable resource to others because of them. That is why I write.
 
@@ -237,6 +237,7 @@ I took another VISA-P at the beginning of August too:
 
 <figure>
   <img class="content" src="/assets/images/visap_aug_05.png" />
+  <br/>
   <em>Anything in the 90's must be fantastic</em>
 </figure>
 
