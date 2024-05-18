@@ -10,6 +10,11 @@ source "https://rubygems.org"
 
 # gem "jekyll", "~> 4.3.1"
 #
+gem 'rack'
+gem 'rackup' 
+
+gem 'jekyll-admin', group: :jekyll_plugins
+
 gem "jekyll-bear-theme"
 #gem "github-pages", "~>	227", group: :jekyll_plugins
 gem "webrick" # Due to bug: https://github.com/jekyll/jekyll/issues/8523
