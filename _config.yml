@@ -76,12 +76,13 @@ exclude: [vendor]
 Blog: /blog
 
 
+
 # Add general links to site pages here
 links:
-  #Resume: /assets/resume.pdf
+  Consultation: /consultation
+  Testimonials: /testimonials
   
 
 # Add links for more focus here
 special_links:
-  Personal Training: https://linktr.ee/chr0nikler?utm_source=linktree_profile_share&ltsid=1708db98-e471-4d8e-bc16-13a99c0b1012
-#
+
