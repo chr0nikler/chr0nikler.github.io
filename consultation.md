@@ -17,9 +17,9 @@ If at the end of your call, you think a personalized training plan is what you n
 
 What are my specialties? 
 
-First, I'm an [NASM CPT](https://www.nasm.org/certified-personal-trainer-a) and a licenced [PPSC Coach](https://getppsc.com/). So when it comes to the nuts and bolts of training, I have you covered.
+First, I'm an [NASM CPT](https://www.nasm.org/certified-personal-trainer-a) and a licensed [PPSC Coach](https://getppsc.com/). When it comes to the nuts and bolts of training, I have you covered.
 
-But after training for ten years, my specialty lies in achieving goals despite injury. With injury or adversity,  I take my time to understand what the best in the business do to to handle similar injuries, and scale the expectations down to what I can do.  Who's got the strongest calves in any task? Ballet dancers. Who has the strongest and most mobile shoulders? Gymnasts and circus artists.  Studying the best reveals how  even recreational athletes can achieve more than they  previously thought possible.
+But after training for ten years, my specialty lies in achieving goals despite injury. With injury or adversity,  I take my time to understand what the best in the business do to  handle similar injuries, and scale the expectations down to what is possible.  Who's got the strongest and most explosive calves in any task? Ballet dancers. Who has the strongest and most mobile shoulders? Gymnasts and circus artists.  Studying the best reveals how  even recreational athletes can achieve more than they  previously thought possible.
 
 Sometimes you have to rest. But there are plenty of ways to keep inching towards your goals without letting injury stop you.
 
@@ -33,7 +33,7 @@ Here are some of my recent numbers with regards to athletic performance:
 
 There is a glaring lack of any endurance achievements, but my sport choices tend to be more anaerobic in nature.
 
-Here's a non-exhaustive list of what I've been through:
+This is a non-exhaustive list of what injuries I've been through:
 
 - Jumper's Knee (Patellar Tendinopathy)
 - Shoulder Surgery (Anterior Labrum repair)
