@@ -17,7 +17,7 @@ If at the end of your call, you think a personalized training plan is what you n
 
 What are my specialties? 
 
-First, I'm an [NASM CPT](https://www.nasm.org/certified-personal-trainer-a) and a licencsed [PPSC Coach](https://getppsc.com/). So when it comes to the nuts and bolts of training, I have you covered.
+First, I'm an [NASM CPT](https://www.nasm.org/certified-personal-trainer-a) and a licenced [PPSC Coach](https://getppsc.com/). So when it comes to the nuts and bolts of training, I have you covered.
 
 But after training for ten years, my specialty lies in achieving goals despite injury. With injury or adversity,  I take my time to understand what the best in the business do to to handle similar injuries, and scale the expectations down to what I can do.  Who's got the strongest calves in any task? Ballet dancers. Who has the strongest and most mobile shoulders? Gymnasts and circus artists.  Studying the best reveals how  even recreational athletes can achieve more than they  previously thought possible.
 
