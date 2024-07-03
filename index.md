@@ -3,7 +3,7 @@ title: Hello
 layout: default
 ---
 
-Hi. I'm Joraaver Chahal. I'm a software engineer and personal trainer trying to broaden my horizons. For example, right now I'm trying to launch an app focused on improving the standard of care for physical therapy after surgery, starting with [ACL reconstruction](https://diffzero.com).
+Hi. I'm Joraaver Chahal. I'm a software engineer and personal trainer trying to broaden my horizons. For example, my twin and I have launched an app focused on improving the standard of care for physical therapy after surgery, starting with [ACL reconstruction](https://diffzero.com).
 
 I have some degree of expertise in software engineering and sports rehabilitation. I'd like to feel this way about business, money, writing, and music too. Time will tell. 
 
