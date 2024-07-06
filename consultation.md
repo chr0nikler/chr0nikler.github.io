@@ -40,6 +40,7 @@ This is a non-exhaustive list of what injuries I've been through:
 - Bicep Surgery (Bicep Tendon Repair)
 - Plantar Fasciopathy
 - Achilles Tendinopathy
+- Lower Back Disc Herniation
 - Golfer's Elbow (Medial Epicondylitis)
 - ACL Reconstruction Surgery with Partial Menisectomy 
 
