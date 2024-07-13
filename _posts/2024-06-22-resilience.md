@@ -2,8 +2,8 @@
 title: Resilience and Uncertainty
 layout: post
 tags:
-- rehab
 - injury
+- philosophy
 ---
 
 A week ago, a friend reached out to me about an injury he suffered. After an extensive discussion about the injury and my personal experience with it, he remarked upon my resilience. I gave a sheepish thank you. The topic of resilience has weighed on me since then. I currently have my own issues with my knee and my condition is forcing me to make difficult decisions about my future in athletic endeavors. It affects my mood from time to time, but I do not let it become a personality trait. The timing of these thoughts compelled me to write. Even when I am finished writing, it likely won’t be enough.

@@ -1,8 +1,11 @@
 ---
+title: 'Making Sense of My Injuries: A Lesson in Humility'
 layout: post
-title: "Making Sense of My Injuries: A Lesson in Humility"
-date: 2021-01-29 01:09:00 -0800
-tags: [training]
+date: '2021-01-29 01:09:00 -0800'
+tags:
+- training
+- injury
+- philosophy
 ---
 
 Last year, on this day, I had ACL surgery. My fourth surgery to date. My third surgery due to sport or physical training. My ... I’ve lost count of the number of injuries. The last few years haven’t been pleasant for my body. I thought today would be an appropriate day to publish a reflection on my training, what I’ve been through, and what I’ve learned.
@@ -30,4 +33,3 @@ I find writing about my injuries has helped mature my programming and developmen
 I hope to continue training for decades to come, and I hope to encounter injuries more and more infrequently.
 
 Thank you [Ting Wang](https://tingtingaling.medium.com/) for proofreading and editing this post.
-
