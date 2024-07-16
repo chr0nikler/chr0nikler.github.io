@@ -20,7 +20,7 @@ This is a lie. I know this to be a lie. I wish I were so noble. Long ago I even 
 You the man, George. If I didn't want someone to read my work, I’d go write in my journal. Instead, I sit here, thinking harder than I should about a collection of words, editing it again and again, with the hope that it may resonate with someone. 
 
 <p align="center">
-	<img src="/assets/images/personal_essay_small.png">
+	<img src="https://chr0nikler.github.io/assets/images/personal_essay_small.png">
 </p>
 
 
