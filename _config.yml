@@ -76,6 +76,13 @@ exclude: [vendor]
 Blog: /blog
 
 
+show_drafts: true
+
+jekyll_admin:
+  hidden_links:
+    - datafiles
+    - configuration
+  homepage: "drafts"
 
 # Add general links to site pages here
 links:
