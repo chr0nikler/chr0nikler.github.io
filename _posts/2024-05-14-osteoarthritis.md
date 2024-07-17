@@ -15,7 +15,7 @@ It never put a serious dent in my athletic pursuits, but the latest episode of s
 
 I'm no [Luis Suarez](https://www.goal.com/en-us/news/former-barcelona-star-luis-suarez-considering-retirement-amid-knee-injury-struggles-at-gremio/blt67873ef731e43b0d) but if I'm too reckless with my pursuits I'll end up in a similar place.
 
-That said, I picked up the [ESCEO Atlas of Osteoarthritis](sites/esceo/files/pdf/OA ESCEO Atlas of Osteoarthritis 2nd Edition 2018.pdf) to gain a broad understanding of the topic that affects millions of people. Much like with my Patellar Tendinopathy, I have a tendency to go deep on a singular topic, so what I write tends to be translatation of notes I've made for myself on the subject.
+That said, I picked up the [ESCEO Atlas of Osteoarthritis](https://www.esceo.org/sites/esceo/files/pdf/OA%20ESCEO%20Atlas%20of%20Osteoarthritis%202nd%20Edition%202018.pdf) to gain a broad understanding of the topic that affects millions of people. Much like with my Patellar Tendinopathy, I have a tendency to go deep on a singular topic, so what I write tends to be translatation of notes I've made for myself on the subject.
 
 Unlike my previous post on Patellar Tendinopathy, I will break this post up into multiple parts, so I don't write a tedious thirty-minute essay. This first part is dedicated to just understanding what Osteoarthritis is and how it is diagnosed, from a clinical perspective. I don't intend to dwell on the subject because I'm no expert, and like I said above, what imaging reveals is not necessarily an indication of function. Nonetheless it's a tool to learn from and understand, as long as it is not abused.
 # History of Osteoarthitis
@@ -60,7 +60,7 @@ A grade called the [Kellgren-Lawrence grade (a.k.a KL grade)](https://empendium.
 
 To maximize understanding of the grades, here's an image from a research paper about using machine learning to automatically classify imaging of a possibly osteoarthritic knee joint:
 
-<img src="/assets/images/KG_osteo.webp" />
+<img src="https://chr0nikler.github.io/assets/images/KG_osteo.webp" />
 
 Looking for all the variables listed above may be difficult to the untrained eye. The easiest ones to identify when comparing a grade 4 vs grade 0 joint are joint space narrowing and the presence of osteophytes. I'm not going to go into the details of how to identify the variables and what the thresholds are (because I am not trained in the reading of said images either) but note that the criteria exist.
 
