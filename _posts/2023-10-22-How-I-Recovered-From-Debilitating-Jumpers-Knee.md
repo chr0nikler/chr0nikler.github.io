@@ -1,8 +1,10 @@
 ---
+title: How I Recovered from Debilitating Jumper's Knee
 layout: post
-title: "How I Recovered from Debilitating Jumper's Knee"
-date: 2023-10-22 00:13:20 -0800
-tags: [training, rehab] 
+date: '2023-10-22 00:13:20 -0800'
+tags:
+- training
+- rehab
 ---
 
 *Reading Time: 23 minutes*
@@ -18,7 +20,7 @@ TL;DR:
 
 I wanted to write about this because I have a very good technical grasp of the problem as well as the emotional and physical toll Jumper's Knee has on an individual. I've recovered from it and coached others to return to sport from it too. My journey includes its own peculiarities that some may find useful.
 
-Another reason is because I wrote [this post](http://localhost:4000/2021/Making-Sense-of-My-Injuries/) two years ago. Do I feel silly for suffering from Plantar Fasciitis (a story for another day as well) and Jumper's Knee after writing it? Absolutely not. Nobody said writing about my injuries or "expressing humility" was going to make me more resilient. I still play my heart out when I step on the field. I just calibrate to injuries faster, become less emotional about them, and am now a far more valuable resource to others because of them. That is why I write.
+Another reason is because I wrote [this post](https://chr0nikler.github.io/2021/Making-Sense-of-My-Injuries/) two years ago. Do I feel silly for suffering from Plantar Fasciitis (a story for another day as well) and Jumper's Knee after writing it? Absolutely not. Nobody said writing about my injuries or "expressing humility" was going to make me more resilient. I still play my heart out when I step on the field. I just calibrate to injuries faster, become less emotional about them, and am now a far more valuable resource to others because of them. That is why I write.
 
 ## How this post is structured
 
@@ -45,7 +47,7 @@ Second, its symptoms are simple:
 4. You participate in an extremely heavy jumping or cutting sport.
 
 <figure>
-  <img src="/assets/images/tendon_pain_location.jpg" />
+  <img src="https://chr0nikler.github.io/assets/images/tendon_pain_location.jpg" />
 </figure>
 
 Third, it's cause is best summarized by Jake Tuura as follows: "it's always a load issue, and sometimes it's a biomechanics issue." What he means by that is an individual suffering from Jumper's Knee might have tight or weak muscles leading to improper movement patterns, or have none of that. Regardless, the sufferer went from doing little or no jumping or cutting, to doing a lot of jumping or cutting, in a very short amount of time. That spike in volume brought on the condition.
@@ -113,7 +115,7 @@ I did 5 sets of 45 second holds of the Spanish Squat with 60-120 seconds of rest
 Fragile, easily provoked tendons can take 6-8 weeks of diligent rehab before changes are felt. This tracks with my experience. Do not give up if you feel nothing has changed. Tendon function is like a step function. You'll feel nothing change until, overnight, you feel everything change. Take it all in stride.
 
 <figure>
-  <img class="content" src="/assets/images/step_function_2.png" />
+  <img class="content" src="https://chr0nikler.github.io/assets/images/step_function_2.png" />
   <em>The pain will fluctuate slightly during your training until a certain point, after which significant relief is felt and pain stabilizes around a new, lower point. All the while function of knee, or what load it is capable of lifting, while experiencing the same amount of pain, will slowly increase.</em>
 </figure>
 
@@ -135,7 +137,7 @@ At the end of each of Jake Tuura's videos, Jake says, "Try it, see if it works f
 On that note, I tried all the recommendations. None of them made me feel "good." This was again, discouraging. After all, Jake Tuura touts the Leg Extension as the gold standard of patellar tendon rehab.  So I took a look at all my options, and landed on this machine:
 
 <figure>
-  <img class="content" src="/assets/images/machine_leg_press.jpg" />
+  <img class="content" src="https://chr0nikler.github.io/assets/images/machine_leg_press.jpg" />
   <em>Most standard commercial gyms have this</em>
 </figure>
 
@@ -152,7 +154,7 @@ Does that sound like impressive progress? Don't be so surprised. Once you get th
 If you are like me, you are in this position not only because you jumped a lot, but because you did so while being weak. Rehab exposes your weakness. I began to find 4 sets of 8 reps doing 3 seconds down, 3 seconds up with 100lb on one leg taxing. That had to change. Here is my training log from the end of August till January 11 2023 (read it from the bottom up): 
 
 <figure>
-  <img src="/assets/images/machine_leg_press_tracked.png" />
+  <img src="https://chr0nikler.github.io/assets/images/machine_leg_press_tracked.png" />
   <br/>
   <em>I'm using a software named QuickCoach to track workouts</em>
 </figure>
@@ -174,13 +176,13 @@ I mapped out exactly how often I would be jumping as a middle blocker by using t
 Here are the main infographics reproduced:
 
 <figure>
-  <img class="content" src="/assets/images/jumps_per_match.webp" />
+  <img class="content" src="https://chr0nikler.github.io/assets/images/jumps_per_match.webp" />
   <em>Middle blockers jump about 100 times over the course of a match, with each jump about 75% their max jump height.</em>
 </figure>
 
 
 <figure>
-  <img class="content" src="/assets/images/jumps_per_set.png"/>
+  <img class="content" src="https://chr0nikler.github.io/assets/images/jumps_per_set.png"/>
   <em>Middle blockers jump about 22-25 times a set.</em>
 </figure>
 
@@ -210,7 +212,7 @@ By the start of January, I had completed my training. But I was still nervous. H
 Given all the points above, I even filled out a questionnaire to put my feelings into a quantitative measure of readiness. This is known as the [VISA-P](https://www.sralab.org/rehabilitation-measures/victorian-institute-sport-assessment-visa-questionnaire-patellar-tendon).
 
 <figure>
-  <img class="content" src="/assets/images/visap_jan_08.png" />
+  <img class="content" src="https://chr0nikler.github.io/assets/images/visap_jan_08.png" />
   <br/>
   <em>Is a 72 good or bad? Hard to say, but I was okay with it. Heavy emphasis on "okay."</em>
 </figure>
@@ -227,7 +229,7 @@ I've been playing volleyball two to three times a week as a middle blocker or ou
 Here's my progress on that same exercise:
 
 <figure>
-  <img class="content" src="/assets/images/machine_leg_press_tracked_v2.png" />
+  <img class="content" src="https://chr0nikler.github.io/assets/images/machine_leg_press_tracked_v2.png" />
   <em>Once again, latest workout is at the top. Since taking these screenshots I've still progressed, but more slowly. </em>
 </figure>
 
@@ -236,7 +238,7 @@ It took me four months to go from nothing to 3 sets of 5 reps of 150 lb with 180
 I took another VISA-P at the beginning of August too:
 
 <figure>
-  <img class="content" src="/assets/images/visap_aug_05.png" />
+  <img class="content" src="https://chr0nikler.github.io/assets/images/visap_aug_05.png" />
   <br/>
   <em>Anything in the 90's must be fantastic</em>
 </figure>
@@ -253,7 +255,7 @@ That's what Jumper's Knee boils down to. It's simple. I would have had less reha
 
 The hardest part of this journey is the emotional aspect of it, not the physical.
 
-It impacts our ability to socialize and participate in activities, which can then eat into our mental health. Many educated individuals like Jake Tuura have simple four or five step protocols that outline precisely what you have to do to return to sport. What makes personal training for conditions like Jumper's Knee valuable is the ability to reassure the athlete that what they are doing is working, even if nothing changes. If you are going through this alone, then it requires a certain amount of faith that the process will work as well as the resolve to do the work when you see no progress. Insanity is doing the same thing over and over and expecting different results, right? Well it might feel like you are going insane, but sometimes that's exactly what you have to do with conditions like Jumper's Knee. Besides, you likely will see improvements in "function," like adding a little more weight in your exercises, even when you notice no change in daily existence. But if you don't have experience with injuries and this is a totally new domain to you, it can be a frustrating experience. If that happens to you, talking with an experienced individual can change everything.
+It impacts our ability to socialize and participate in activities, which can then eat into our mental health. Many educated individuals like Jake Tuura have simple four or five step protocols that outline precisely what you have to do to return to sport. What makes personal training for conditions like Jumper's Knee valuable is the ability to reassure the athlete that what they are doing is working, even if nothing changes. If you are going through this alone, then it requires a certain amount of faith that the process will work as well as the resolve to do the work when you see no progress. Insanity is doing the same thing over and over and expecting different results, right? Well it might feel like you are going insane, but  that's exactly what you have to do with conditions like Jumper's Knee. Besides, you likely will see improvements in "function," like adding a little more weight in your exercises, even when you notice no change in daily existence. But if you don't have experience with injuries and this is a totally new domain to you, it can be a frustrating experience. If that happens to you, talking with an experienced individual can change everything.
 
 ## What's next?
 

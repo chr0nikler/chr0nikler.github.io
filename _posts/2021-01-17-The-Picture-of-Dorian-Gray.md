@@ -1,12 +1,14 @@
 ---
+title: 'The Picture of Dorian Gray: Book Summary'
 layout: post
-title: "The Picture of Dorian Gray: Book Summary"
-date: 2021-01-17 11:32:00 -0800
-tags: [book]
+date: '2021-01-17 11:32:00 -0800'
+tags:
+- book
 ---
+
 *What happens when we confuse beauty with substance?*
 
-<img src="/assets/images/dorian_gray.jpg" />
+<img src="https://chr0nikler.github.io/assets/images/dorian_gray.jpg" />
 <em>I accidentally bought a fancy version of the book. Also, points for natural lighting.</em>
 
 
@@ -16,7 +18,7 @@ I wanted to try something different from my comfy, classic mystery and historica
 
 I didn't know about the commentary this book received until after I read it. In my mind, Wilde was addressing more subtle things, the interest in portraits and plays, rather than the grotesque nature of the human condition, the homeless and the starving. I was surprised to learn that Wilde had to fight vehemently to protect his rights as an artist to publish what some considered a subversion of morality. Apparently understanding art as intrinsically beautiful, with no concept of morality attached, was too revolutionary for the people of his time. As if predicting the reception of the book, one of the factors in Dorian's unraveling is a book lent to him by Lord Henry. Dorian can't put it down. But afterwards, he implores Lord Henry to never lend the book to anyone else for fear of its disastrous effect on people. Funny.
 
-<img src="/assets/images/wilde.jpg" />
+<img src="https://chr0nikler.github.io/assets/images/wilde.jpg" />
 <em>Is this the face of depravity?<a href="#citation1">[1]</a></em>
 
 I liked the characters and conversations, as well as the the monologues in the book, the controversy surrounding the book, and the thought-provoking nature of the book. Couldn't ask for much more, from a book.
@@ -24,6 +26,3 @@ I liked the characters and conversations, as well as the the monologues in the b
 <br/>
 <br/>
 <a name="citation1"></a>1. <a href="https://en.wikipedia.org/wiki/Oscar_Wilde">https://en.wikipedia.org/wiki/Oscar_Wilde</a>
-        
-
-
