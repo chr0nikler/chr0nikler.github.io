@@ -75,6 +75,8 @@ exclude: [vendor]
 
 Blog: /blog
 
+show_drafts: true
+
 jekyll_admin:
   hidden_links:
     - datafiles
@@ -85,7 +87,6 @@ jekyll_admin:
 links:
   Consultation: /consultation
   Testimonials: /testimonials
-
 
 # Add links for more focus here
 special_links:
