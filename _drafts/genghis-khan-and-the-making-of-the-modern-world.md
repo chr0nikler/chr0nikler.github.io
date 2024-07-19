@@ -1,6 +1,6 @@
 ---
 title: 'Genghis Khan and the Making of the Modern World: Book Summary'
-layout: post
+layout: design-post
 tags:
 - book
 ---
