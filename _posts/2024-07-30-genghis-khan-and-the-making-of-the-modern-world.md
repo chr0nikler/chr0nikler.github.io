@@ -8,7 +8,7 @@ tags:
 *Reading Time: 21 minutes*
 
 <p align="center">
-	<img src="http://localhost:4000/assets/images/GKW2.jpg">
+	<img src="https://chr0nikler.github.io/assets/images/GKW2.jpg">
 </p>
 
 
@@ -16,15 +16,15 @@ Before I discuss the book <u>Genghis Khan and the Making of the Modern World</u>
 
 In the waning afternoon heat of the first Thursday in June, my friends and I enjoyed dinner at [Farmhouse Kitchen](https://www.yelp.com/biz/farmhouse-kitchen-thai-cuisine-menlo-park-2?osq=thai) in Menlo Park. One of these characters likes to probe our minds with interesting but somewhat nonsensical questions during our social gatherings. What follows next is an exemplary case of me entertaining her questions.
 
-“If you could learn any language in the world, but had to eat a person to learn that language, would you do it, and who would you eat?” she asked during a lull in our conversation. For the sake of brevity, I skip our discussion about the morality of eating a person, as the answer in the scenario must be obvious. 
+“If you could learn any language in the world, but had to eat a person to learn that language, would you do it, and who would you eat?” she asked during a lull in our conversation. For the sake of brevity, I skip our discussion about the difficult morality surrounding cannibalism in the pursuit of knowledge. 
 
-“Anyone, dead or alive, past or present?” I inquired. This was an innocent question. I had no ill-intent, initially.
+“Anyone, dead or alive, past or present?” I inquired. This was an innocent question. I had no ill-intent.
 
-“Uhh, okay yes. Anyone. But you also inherit their memories,” she responded. This stipulation was strictly added in anticipation of me picking a heinous being like Jack the Ripper. From her perspective, as a lover of languages, the torment of living with those memories would greatly outweigh the desire to know any language, let alone ... Old English, for this example. Unfortunately for her, it’s difficult to anticipate me.
+“Uhh, okay yes. Anyone. But you also inherit their memories,” she responded. This stipulation was strictly added in anticipation of me picking a heinous being like Jack the Ripper. From her perspective, as a lover of languages, the torment of living with those memories would greatly outweigh the desire to know any language, let alone ... Old English, for this example. Unfortunately for her, it’s difficult to anticipate me. For the record though, she started it.
 
 I exclaimed that I would want nothing more than to consume Genghis Khan and know everything about the largest land empire that ever existed. And of course, to learn the Mongol language. Of course.
 
-A relentless stream of questions and statements followed. Can you live with yourself after seeing how he killed millions of people? You can’t possibly stay sane after witnessing the rape and looting! Are you okay with having multiple wives? Honestly, with such a hypothetical question, I wasn’t giving it that much thought (besides, it’s not me who did it, I just have his memories! And yet, who are we except for our memories?). I might become a raving lunatic, but at least I’d know what it was like.
+A relentless stream of questions and statements followed. Can you live with yourself after seeing how he killed millions of people? You can’t possibly stay sane after witnessing the rape and looting! Are you okay with having multiple wives? Honestly, with such a hypothetical question, I wasn’t giving it that much thought (besides, it’s not me who did it, I just have his memories! And yet, who are we but our current interpretations of our memories?). I might become a raving lunatic, but at least I’d know what it was like.
 
 What was the outcome of our serious academic discussion? That we didn’t know diddly-squat about Genghis Khan, and whatever we were saying during the discussion was us parroting our vague memories about his exploits in a 7th grade textbook. It reminded me of how I believed that Malcom X started the Black Panthers movement because that’s what I recalled from my history textbook. A year ago, after reading Malcom X’s autobiography, I discovered that two activists started the movement a year or two after Malcom X’s passing.
 
@@ -65,7 +65,7 @@ One question my dinner table posed: was he a front-line fighter, or a king who s
 I’ll wrap up this section with a small blurb on geography, because war and geography are inseparable.
 
 <p align="center">
-	<img src="http://localhost:4000/assets/images/mongol_empire.jpg">
+	<img src="https://chr0nikler.github.io/assets/images/mongol_empire.jpg">
   	<em>Courtesy of Freeman-pedia</em>
 
 </p>
@@ -93,15 +93,15 @@ I mentioned freedom of religion before, but I must stress it again. Genghis Khan
 
 And what of culture? I stated that contact between nations necessitates the intermingling of culture. As much as the Mongols were influenced by the cultures of the people they conquered, with the lavish new lifestyle they enjoyed and the rapid progress in different sectors, the Mongols left their mark on the people they conquered, not in what they did, but in who they were.
 
-One remarkable example is China, which the Mongol Empire annexed during Genghis Khan’s son’s reign. Due to the rivalry amongst sons and the desire to hold on to power, the son in control of eastern Asia fully immersed himself in Sung history. He gave himself a Sung name and a Sung history and built the city that today is Beijing. He did his best to appear Chinese on the outside, even though he couldn’t let go of basic Mongol traditions such as ensuring his children were born in a *ger* (the Mongol tent used while living on the steppes), which was done within the walls of the Forbidden City to avoid prying eyes. This looseness with identity had the intended effect of elevating his name as favored by the heavens, and future generations would rewrite the history books as necessary to ensure said association.
+One remarkable example is China, which the Mongol Empire annexed during Genghis Khan’s son’s reign. Due to the rivalry amongst sons and the desire to hold on to power, the son in control of eastern Asia fully immersed himself in Sung history, even giving himself a Sung name. He was also responsible for building the city that today is Beijing. He did his best to appear Chinese on the outside, even though he couldn’t let go of basic Mongol traditions such as ensuring his children were born in a *ger* (the Mongol tent used while living on the steppes), which was done within the walls of the Forbidden City to avoid prying eyes. This looseness with identity had the intended effect of elevating his name as favored by the heavens, and future generations would rewrite the history books as necessary to ensure said association.
 
-“What could have been” is always a question posed by pondering historians when discussing the losers and winners in war. Regarding Genghis Khan, historians discuss this question about the potential of the Middle East. The Middle East had some of the brightest minds and finest art at that point in time, and few disagree about the negative impact Genghis Khan’s conquest had on those countries’ independence and innovation. Genghis Khan often relied on the astronomers and mathematicians from those lands. It is akin to how the layperson knows Anglo-Saxon artists, poets, scientists, and mathematicians well, when many of the founding principles in math and science, as well as the inspiration for many a poet and artist are the creation of Middle Eastern minds.
+“What could have been” is always a question pondered by historians about the winners and losers in war. Regarding Genghis Khan, historians aimed this question at the potential of the Middle East. The Middle East had some of the brightest minds and finest art at that point in time, and most agree with how far Genghis Khan’s conquest setback the independence and innovation in those countries. It is akin to how the layperson knows Anglo-Saxon artists, poets, scientists, and mathematicians well, when many of the founding principles in math and science, as well as the inspiration for many a poet and artist are the creation of brilliant but forgotten Middle Eastern minds.
 
-Like all great empires, the demise of the Mongol Empire is also worth studying. As I have mentioned, the sons of Genghis Khan could not maintain unity amongst the Mongol people, and rifts soon formed. However, the Mongol Empire could not risk true division, as the very trade that made it wealthy was also its only lifeline. Alas, a *force majeure*  changed the course of history in the 1300s: the bubonic plague.
+The Mongol Empire's demise is worth studying too. As I have mentioned, the sons of Genghis Khan could not maintain unity amongst the Mongol people, and rifts soon formed. However, the Mongol Empire could not risk true division, as the very trade that made it wealthy was also its only lifeline. What it couldn't handle was a *force majeure*  that changed the course of history in the 1300s: the bubonic plague.
 
-The Black Death tore through the Mongol Empire, leaving city after city struggling to understand what it did to deserve such treatment. Some recognized early on that it was a matter of contact with diseased people and closed their doors to outsiders. Others, like the Christians, blamed the Jews, and began bloody persecutions. In one such excursion, and perhaps an exaggerated tale, the Christian armies flung dead bodies into closed cities to ensure the plague continued to spread.
+The Black Death tore through the Mongol Empire, leaving city after city struggling to understand what it did to deserve such treatment. Some recognized early on that it was a matter of contact with diseased people and closed their doors to outsiders. Others, like the Christians, blamed the Jews, and began bloody persecutions. In one such fight, and perhaps an exaggerated tale, the Christian armies flung dead bodies into closed cities to ensure the plague continued to spread.
 
-As a result of such widespread fear and death, trade collapsed. The Mongol Empire, divided and unable to raise a military campaign for control of its empire over such a large scale, could no longer sustain their lavish lifestyle. The empire split, with each ruler ingratiating themselves with the culture they ruled more than ever before to avoid being ostracized by their own subjects. The Mongol lineage promptly dispersed itself amongst much of the Asian continent. As a simple send off example, the Mughal Empire, which fought many bloody battles in India, claimed a lot of its heritage from the Mongols.
+As a result of the widespread fear and death, cities cut all contact with one another, and trade collapsed. The Mongol Empire, divided and unable to raise a military campaign for control of its empire over such a large scale, could no longer sustain its lavish lifestyle. The empire split, with each ruler ingratiating himself with the culture they ruled more than ever before to avoid being ostracized by their own subjects. The Mongol lineage promptly dispersed itself amongst much of the Asian continent. As a final example, the Mughal Empire, which fought many bloody battles in India, claimed a lot of its heritage from the Mongols.
 
 ## The Symbol that is Genghis Khan
 
@@ -113,42 +113,26 @@ As you may have guessed, the trait he held in highest regard was loyalty. Loyalt
 
 I will return to loyalty in a moment, but I must first explain how Genghis Khan expanded his rule to further develop his person. Imagine a man who wanted only the best for his people, but every time he sought connection with others in hopes of trade and the exchange of ideas, his people were hurt, leaving him no choice but to fight. That is Genghis Khan. He looked after his people, and if an envoy he sent was met with execution, then his executioners would endure the same fate. While my retelling is perhaps a tad exaggerated, the truth remains that other empires were ruthless and mocked the envoys he sent, executing them without hesitation. Retaliation was the only recourse.
 
-
 Knowing this, whenever he conquered, whether it was a tribe, a city, or a nation, he would let the conquered peoples live as they were, but under his authority. That meant no further disruption of life, no barbaric mass execution, and no chaotic pillaging (to be clear, they looted the city of its riches, but in a strict and orderly fashion after clearing out all noncombatants). If he discovered his armies acting in such shameful ways, he showed them no mercy. But for newly conquered cities, this is when loyalty mattered the most. An unfortunate city sometimes misunderstood his lax rule and revolted. That city soon saw swift and utter destruction; there were no second chances.
-    
 
 To his people, Genghis Khan represented true warrior leadership. One that ensured fierce protection of their people while ushering in a new era of luxury. To be associated with or descended from the Khan was to inherit the same blessings he possessed from the Eternal Blue Sky or the Mountains of Burkan Khaldun.
 
-  
-
 However, as Genghis Khan reached old age, and sought to pass on his empire to his children, he realized that none of his children knew how to handle such a monumental task. He may have broken out of the social norms to unite his people, but his people still expected social norms to be followed as he passed on. Weatherford does not explicitly state this, but I like to think this regret lingered with Genghis Khan. That despite everything he accomplished, it was family that enabled his journey to the top, and it would remain family that were his problems to the very end.
 
-    
-
-To flip the script, what were the opinions of the conquered peoples? What did they see in Genghis Khan?
-
-    
+But what were the opinions of the conquered peoples? What did they see in Genghis Khan?
 
 At first, when nobody knew his name, the word in the air was about the looks of him and his army. Of wide eyes, rugged bodies, taut skin. Denigrating descriptions that instilled fear of a barbaric race from the northeast that were killing machines.
-
     
-
 But that attitude changed as Genghis Khan conquered nation after nation, and each nation experienced trade and innovation. To the literate folk, Genghis Khan was not only a military giant, but a thought leader. Nobody could deny his knack for gathering minds brighter than his in the domains of math, science, art, religion in order to change how business occurred on a day-to-day basis. After all, before this point in time, no empire this large existed, and implementing systems to manage groups of people across different time zones, ethnic backgrounds, religions, and currencies was unheard of.
-
     
-
 However, there is a reason me and my friends only knew Genghis Khan for his ferocious and inhuman behavior. What we know today is history written by the victors, unless we choose to find alternate material than the ones that dominate modern society.
 
-    
-
-Voltaire published a play using Genghis Khan and the Mongol people as a way to attack the French royalty without specifying them. He abused points about brute strength and violence while once again returning to the initial descriptions of the Mongols in his attempts to slander those in power.
-
-    
+Voltaire published a play using Genghis Khan and the Mongol people as a way to attack the French royalty without specifying them. He abused points about brute strength and violence while once again returning to the initial descriptions of the Mongols in his attempts to slander those in power.  
 
 Later, during the Enlightenment Period in Europe, scientists started classifying everything, including humans. If the Caucasian features ranked the highest in terms of intelligence and beauty, the Mongol features became associated with everything ugly and stupid. Don’t assume this is an idea far removed from our time period. Here is a ngram chart for the term “mongoloid” which is classified as “offensive” and defined as “an old-fashioned term for a person with Down syndrome”:
 
 <p align="center">
-	<img src="http://localhost:4000/assets/images/mongoloid_usage.png">
+	<img src="https://chr0nikler.github.io/assets/images/mongoloid_usage.png">
 </p>
 
 What Genghis Khan represents is a beautiful illustration of the arc of history and knowledge. He is well-known for his military ferocity and for the empire he once ruled. I now know him for his willingness to break social norms, his leadership skills as a uniter of people, and his innovation in military, law, politics, economics, religion, and writing. But for the uneducated, it is the single paragraph or two about terror and violence in a history textbook on world history that is remembered. The usage of the offensive word previously defined indicates that although the belief about Mongol facial features and intelligence may not be as pervasive as it once was, it still holds root and reminds us that the words we use reflect beliefs, even ones we do not consciously support or maintain.
