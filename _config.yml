@@ -83,8 +83,7 @@ jekyll_admin:
 
 # Add general links to site pages here
 links:
-  Consultation: /consultation
-  Testimonials: /testimonials
+  'Personal Training': /training
 
 # Add links for more focus here
 special_links:
