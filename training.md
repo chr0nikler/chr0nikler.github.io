@@ -1,6 +1,6 @@
 ---
 title: Personal Training
-layout: default
+layout: page
 ---
 
 I don't offer 1-1 training at the moment, but I do offer consultations and personalized programming as necessary:
@@ -40,6 +40,6 @@ This is a non-exhaustive list of what injuries I've been through:
 - Golfer's Elbow (Medial Epicondylitis)
 - ACL Reconstruction Surgery with Partial Menisectomy 
 
-In spite of many of these injuries, I've continue to play volleyball at a competitive level, including a two-day indoor tournament as a middle blocker. I've done my best to enjoy sport even in times of less than stellar health.
+In spite of many of these injuries, I have enjoyed playing sport at at a competitive level, including a two-day indoor BB volleyball tournament tournament as a middle blocker. I've done my best to enjoy sport even in times of less than stellar health.
 
 Regardless of where you are in your fitness journey, I hope I can help you succeed.
