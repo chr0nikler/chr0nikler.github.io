@@ -48,6 +48,13 @@ All this to say, screw me for using Gmail or a "next gen" format that was starte
 
 But at least I'm not [these saps](https://groups.google.com/a/webmproject.org/g/webp-discuss/c/e1ZzTJOfIyg?pli=1).
 
+
+<br>
+<br>
+<br>
+
+
 ---
+
 
 1\. I was trying to use koalas due their brain-to-weight ratio, but I couldn't formulate the analogy I wanted to portray, and while fact checking, ended up on [a post describing how some venture backed companies survive the way koalas, as stupid as they are, have managed to survive till now, despite their stupidity.](https://omdventures.com/essays/koalas-stupidity-as-strategy). Then I decided I was wasting my time. If a cow lover takes offense, I'd be more than happy to apologize.
