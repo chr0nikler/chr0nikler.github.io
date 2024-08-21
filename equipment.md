@@ -1,6 +1,6 @@
 ---
 title: Equipment
-layout: page
+layout: default
 ---
 
 ### Equipment
