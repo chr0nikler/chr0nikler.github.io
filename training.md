@@ -1,13 +1,17 @@
 ---
 title: Personal Training
-layout: page
+layout: default
 ---
+
+### Personal Training
 
 I don't offer 1-1 training at the moment, but I do offer consultations and personalized programming as necessary:
 
 [Consultations](http://chr0nikler.github.io/consultation)
 
 [Testimonials](http://chr0nikler.github.io/testimonials)
+
+[Equipment](http://chr0nikler.github.io/equipment)
 
 ---
 

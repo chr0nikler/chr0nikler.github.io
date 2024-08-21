@@ -3,6 +3,8 @@ title: Testimonials
 layout: default
 ---
 
+### Testimonials
+
 **Vivek**
 
 *Joraaver is nothing short of an exceptional coach and personal trainer. Over the past year and a half, I found myself sidelined from playing volleyball due to the relentless grip of chronic and debilitating patella tendinopathy. Watching my friends and teammates continue to progress on the court while I grappled with the daunting notion of never playing volleyball pain-free again was emotionally taxing. The road to recovery, marked by its slow and subtle progress, seemed like an insurmountable challenge.*

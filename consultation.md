@@ -3,6 +3,8 @@ title: Consultation
 layout: default
 ---
 
+### Consultations
+
 Often, you don't need a training plan, you just need someone to talk to. Someone to tell you your injury isn't the end of the world, or that your goal is achievable with a well thought-out plan, or that there's a perfectly good reason you aren't seeing progress, and that's still a good thing. If that sounds like you, then don't hesitate.
 
 <!-- Calendly link widget begin -->
