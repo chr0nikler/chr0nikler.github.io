@@ -98,8 +98,6 @@ Take 6:
 
 And I’m done. 
 
----
-
 ![me_writing](https://chr0nikler.github.io/assets/images/me_writing.gif){:style="display: block; margin: 0 auto" }
 <center>
 	<em> What this process feels like</em>
