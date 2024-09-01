@@ -1,6 +1,8 @@
 ---
 title: 'Copywork: An Example'
-layout: design-post
+layout: post
+tags:
+- writing
 ---
 
 I’m a sucker for eloquence. A marvelous piece of writing moves me. I crave the moments in a story when the author has decided that this conversation, this exchange, this clash of wills will transcend the characters who experience them. A stellar sentence swells, softens, betrays anger, begs for pity, trembles in fear, turns a cold shoulder, but above all, seizes the reader's breath. The whole is far greater than the sum of its parts. 
