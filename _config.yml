@@ -75,7 +75,6 @@ exclude: [vendor]
 
 Blog: /blog
 
-
 jekyll_admin:
   hidden_links:
     - datafiles
