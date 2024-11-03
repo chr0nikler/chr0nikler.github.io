@@ -1,6 +1,8 @@
 ---
 title: Life Update
 layout: post
+tags:
+- meta
 ---
 
 I haven’t written in a while. This often happens not because I don’t have the time to write, but because I’m dedicating that time to something else. 
@@ -9,7 +11,7 @@ For my birthday I was gifted a [Remarkable 2 tablet](https://remarkable.com/stor
 
 Where is my new free time coming from? Well, big news, I’m getting knee surgery on November 12th. I’ve got a hole in my cartilage that will be filled using some of my tissue, and my outer meniscus is torn to shreds, so I’ll receive a new one from a freshly dead yet otherwise healthy person whose knee circumference matches mine. To be specific, it’s a meniscus transplant and OATS (Osteochondral Autograft Transfer System) procedure that should take around four hours. 
 
-Weight bearing will take between 8-12 weeks. Rehab till I can handle impact might take up to a year. I’m at the mercy of cartilage healing times, which are *slow*, and muscle atrophy, which will be significant. I’ve got a condition that also makes my blood more likely to clot when immobile. That means I’ll be on blood thinners. It also impacts my rehab, since my therapist normally likes to use [blood-flow restriction training](https://www.apta.org/patient-care/interventions/blood-flow-restriction) to improve tissue function using extremely light loads to within a reasonable rep ranges to reduce joint stress. My [condition and the family history of deep-vein thrombosis are contraindications](https://www.jospt.org/doi/pdf/10.2519/jospt.2019.8375)(search Thrombophilia) to that kind of tool, so I’ll have to go to extreme rep ranges with the same loads. It’s like asking you do to 12 repetitions vs 30 with the same weight, both achieving failure though. Same result, one of them is more mentally exhausting.
+Weight bearing will take between 8-12 weeks. Rehab till I can handle impact might take up to a year. I’m at the mercy of cartilage healing times, which are *slow*, and muscle atrophy, which will be significant. I’ve got a condition that also makes my blood more likely to clot when immobile. That means I’ll be on blood thinners. It also impacts my rehab, since my therapist normally likes to use [blood-flow restriction training](https://www.apta.org/patient-care/interventions/blood-flow-restriction) to improve tissue function using extremely light loads to within a reasonable rep ranges to reduce joint stress. My [condition and the family history of deep-vein thrombosis are contraindications](https://www.jospt.org/doi/pdf/10.2519/jospt.2019.8375) (search Thrombophilia) to that kind of tool, so I’ll have to go to extreme rep ranges with the same loads. It’s like asking you do to 12 repetitions vs 30 with the same weight, both achieving failure though. Same result, one of them is more mentally exhausting.
 
 I’ll probably delay any kind of sport until the two-year mark. Piece of cake.
 
