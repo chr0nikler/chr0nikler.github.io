@@ -22,7 +22,7 @@ But this begs the question:
 	<em>In reality I don't pick up my glasses like that. I push them a little higher up the bridge of my nose with my middle finger. </em>
 </center>
 
-As always, my brother [Chomsky](https://www.ditext.com/chomsky/power.pdf) has given me the ability to answer all complicated social problems we know nothing about.
+As always, my sensei [Chomsky](https://www.ditext.com/chomsky/power.pdf) has given me the ability to answer all complicated social problems we know nothing about.
 ## Where Have All The Green Bills Gone?
 Money is the best place to start when detangling complex geopolitical problems. I know this problem doesn't sound political, but it only doesn't to the naive capitalist who doesn't want the government to undermine the efforts of private organizations, when private organizations practically run the government (hello DOGE).
 
