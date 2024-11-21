@@ -19,7 +19,7 @@ But this begs the question:
 
 ![meme of fluid shortage](http://localhost:4000/assets/images/IVFluidMeme.jpg){:style="display: block; margin: 0 auto" }
 <center>
-	<em>In reality I don't actually pick up my glasses. I'm push them a little higher up the bridge of my nose with my middle finger. </em>
+	<em>In reality I don't pick up my glasses like that. I push them a little higher up the bridge of my nose with my middle finger. </em>
 </center>
 
 As always, my brother [Chomsky](https://www.ditext.com/chomsky/power.pdf) has given me the ability to answer all complicated social problems we know nothing about.
