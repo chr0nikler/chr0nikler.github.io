@@ -9,7 +9,7 @@ I cannot believe how fortunate you are to be reading my blog, because it exposes
 
 My surgery has been delayed to December 19th.  I have not, in fact, been riding the high of some good vicodin. Woe is me.
 
-The hospital called a week before my surgery to tell me that they were experiencing a shortage of IV fluids requiring a reschedule of my surgery along with others in November. The next best date the nurse on the line could give me was December 19th. She  did not comment on whether or not their IV fluid shortage would be resolved by then. I thanked them for the call, acknowledging the change in date. Because our healthcare system is amazing, my hematologist did not get the memo. I now have to pick up a prescription far before my surgery date, with a refill date much earlier than needed, and provide an explanation to the different members in my care team to help my them connect the dots. Yipee.
+The hospital called a week before my surgery to tell me that they were experiencing a shortage of IV fluids, which required rescheduling my surgery along with others in November. The next best date the nurse on the line could give me was December 19th. She  did not comment on whether or not the IV fluid shortage would be resolved by then. I thanked them for the call, acknowledging the change in date. Because our healthcare system is amazing, my hematologist did not get the memo. I now have to pick up a prescription far before my surgery date, with a refill date much earlier than needed, and provide an explanation to the different members in my care team helping them connect the dots. Yipee.
 
 But when I hung up, I was intrigued. Little ole me, finally impacted by a national problem occurring far away? So, of course I learned more, and today, you will too.
 
