@@ -15,4 +15,5 @@ layout: page
 
 
 ### OpenSim
-[Predictive Simulations to Study Plantarflexors in Gait Pathologies](/assets/pdfs/PredSimPFGaitPathology.pdf)
+[Predictive Simulations to Study Plantarflexors in Gait Pathologies](/assets/pdfs/PredSimPFGaitPathology.pdf)  
+[Predictive Simulation of Biologic Motion using SCONE](/assets/pdfs/SCONEdemo.pdf)
