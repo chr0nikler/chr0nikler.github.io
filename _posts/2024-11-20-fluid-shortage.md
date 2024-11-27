@@ -17,7 +17,7 @@ The New York Times published a [good article discussing](https://www.nytimes.com
 
 But this begs the question: 
 
-![meme of fluid shortage](https://chr0nikler.github.io/assets/images/IVFluidMeme.jpg){:style="display: block; margin: 0 auto" }
+![meme of fluid shortage](http://localhost:4000/assets/images/IVFluidMeme.jpg){:style="display: block; margin: 0 auto" }
 <center>
 	<em>In reality I don't pick up my glasses like that. I push them a little higher up the bridge of my nose with my middle finger. </em>
 </center>
