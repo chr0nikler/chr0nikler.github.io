@@ -65,5 +65,5 @@ P.S. I got lazy with my superscript positioning (before or after the punctuation
 3\. U.S. Pharmacopeia, "Geographic Concentration in Pharmaceutical Manufacturing: Risks and Opportunities," Quality Matters, accessed November 20, 2024, https://qualitymatters.usp.org/geographic-concentration-pharmaceutical-manufacturing.  
 4\. Chris Edwards, "Cutting Federal Farm Subsidies," Cato Institute Briefing Papers, no. 123 (November 1, 2024), https://www.cato.org/briefing-paper/cutting-federal-farm-subsidies#conclusion.  
 5\. Balkhi B, Alshahrani A, Khan A. Just-in-time approach in healthcare inventory management: Does it really work? Saudi Pharm J. 2022 Dec;30(12):1830-1835. doi: 10.1016/j.jsps.2022.10.013. Epub 2022 Nov 3. PMID: 36601508; PMCID: PMC9805965.
-6\. American Hospital Association, Hospitals and Health Systems Face Unprecedented Financial Pressures Due to COVID-19, May 2020, https://www.aha.org/system/files/media/file/2020/05/aha-covid19-financial-impact-0520-FINAL.pdf.
+6\. American Hospital Association, Hospitals and Health Systems Face Unprecedented Financial Pressures Due to COVID-19, May 2020, https://www.aha.org/system/files/media/file/2020/05/aha-covid19-financial-impact-0520-FINAL.pdf.  
 7\. There's a joke here.
