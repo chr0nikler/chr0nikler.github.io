@@ -17,3 +17,7 @@ layout: page
 ### OpenSim
 [Predictive Simulations to Study Plantarflexors in Gait Pathologies](/assets/pdfs/PredSimPFGaitPathology.pdf)  
 [Predictive Simulation of Biologic Motion using SCONE](/assets/pdfs/SCONEdemo.pdf)
+
+### [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+
+[Chapter 1: Introduction](/assets/pdfs/RLIntroductionCh1.pdf)
