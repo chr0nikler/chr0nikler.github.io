@@ -19,5 +19,8 @@ layout: page
 [Predictive Simulation of Biologic Motion using SCONE](/assets/pdfs/SCONEdemo.pdf)
 
 ### [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+Non-programming exercise solutions checked against ChatGPT, which is extremely useful, although their website does say you can email them to get solutions back too.
 
-[Chapter 1: Introduction](/assets/pdfs/RLIntroductionCh1.pdf)
+[Chapter 1: Introduction](/assets/pdfs/RLIntroductionCh1.pdf)  
+[Part 1: Tabular Solution Methods](/assets/pdfs/RLIntroductionPart1.pdf)  
+[Chapter 2: Multi-Armed Bandits](/assets/pdfs/RLIntroductionCh2.pdf)
