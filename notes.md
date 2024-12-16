@@ -16,7 +16,7 @@ layout: page
 
 ### OpenSim
 [Predictive Simulations to Study Plantarflexors in Gait Pathologies](/assets/pdfs/PredSimPFGaitPathology.pdf)  
-[Predictive Simulation of Biologic Motion using SCONE](/assets/pdfs/SCONEdemo.pdf)
+[Predictive Simulation of Biologic Motion using SCONE](/assets/pdfs/SCONEDemo.pdf)
 
 ### [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 Non-programming exercise solutions checked against ChatGPT, which is extremely useful, although their website does say you can email them to get solutions back too.
