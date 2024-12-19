@@ -12,7 +12,7 @@ Unfortunately, my surgery was cancelled. My surgeon, pale and stricken, walked i
 
 The timing of the news was hilarious . One nurse had shaved my leg and was preparing the IV, looking for a second vein because she had messed up on the first one (even though I had good veins). The anesthesiologist had just introduced herself and was informing me about the application of a nerve block. I had gotten all comfortable in the bed with heating going through my one piece surgical attire, ready to slip into temporary bliss. Of course, even temporary blisses aren't afforded to me. 
 
-![Shaved leg](http://localhost:4000/assets/images/shaved_leg.jpg){:style="display: block; margin: 0 auto; width: 50%" }
+![Shaved leg](https://chr0nikler.github.io/assets/images/shaved_leg.jpg){:style="display: block; margin: 0 auto; width: 50%" }
 <center>
 	<em>You've been dying to know what this looks like.</em>
 </center>
@@ -21,7 +21,7 @@ On the bright side, I can spend Christmas and New Years on one and a half fine l
 
 All that said, you deserve my next GIF attempt to round off this delectably bite-sized post:
 
-![Edward Liore GIF](http://localhost:4000/assets/images/FMAB.gif){:style="display: block; margin: 0 auto" }
+![Edward Liore GIF](https://chr0nikler.github.io/assets/images/FMAB.gif){:style="display: block; margin: 0 auto" }
 <center>
 	<em>Don't you dare ask me if I'm the girl in this.</em>
 </center>
