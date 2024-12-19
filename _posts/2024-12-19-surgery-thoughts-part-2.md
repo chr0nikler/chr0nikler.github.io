@@ -1,0 +1,27 @@
+---
+title: Surgery Thoughts Part 2
+layout: post
+tags:
+- injury
+- philosophy
+---
+
+You ever try to use a quotation in a witty or emotional way, only to have it backfire on you because life has other plans? No? What a shame. You should try it sometime. If you don't have a funny bone, it forces your body to grow one.
+
+Unfortunately, my surgery was cancelled. My surgeon, pale and stricken, walked in, asked everyone to step out, drew the curtain, and apologized. He informed me that the meniscus arrived late last night, and the team only realized upon inspection as they were prepping me for surgery that the one they received was for a left knee, not a right one. 
+
+The timing of the news was hilarious . One nurse had shaved my leg and was preparing the IV, looking for a second vein because she had messed up on the first one (even though I had good veins). The anesthesiologist had just introduced herself and was informing me about the application of a nerve block. I had gotten all comfortable in the bed with heating going through my one piece surgical attire, ready to slip into temporary bliss. Of course, even temporary blisses aren't afforded to me. 
+
+![Shaved leg](http://localhost:4000/assets/images/shaved_leg.jpg){:style="display: block; margin: 0 auto; width: 50%" }
+<center>
+	<em>You've been dying to know what this looks like.</em>
+</center>
+
+On the bright side, I can spend Christmas and New Years on one and a half fine legs. That's something, isn't it? I was planning on training my grip strength during the time I was on the couch, but it looks like I can get a head start on that while being mobile. Golly, I might even watch Sonic the Hedgehog 3 tomorrow with my friends! Though, given the temporal proximity, a freshly acquired ticket might destroy my cervical spine for two hours.
+
+All that said, you deserve my next GIF attempt to round off this delectably bite-sized post:
+
+![Edward Liore GIF](http://localhost:4000/assets/images/FMAB.gif){:style="display: block; margin: 0 auto" }
+<center>
+	<em>Don't you dare ask me if I'm the girl in this.</em>
+</center>
