@@ -21,7 +21,7 @@ If that's the case, then neither should they for you:
 	<em>Demonic</em>
 </center>
 
-On the bright side, I can spend Christmas and New Year's on one and a half fine legs. That's something, isn't it? I was planning on training my grip strength during the time I was on the couch, but it looks like I can get a head start on that while being mobile. Golly, I might even watch Sonic the Hedgehog 3 tomorrow with my friends! Though, given the temporal proximity, a freshly acquired ticket might destroy my cervical spine for two hours.
+On the bright side, I can spend Christmas and New Year's on one and a half fine legs with my family and girlfriend. That's something, isn't it? I was planning on training my grip strength during the time I was on the couch, but it looks like I can get a head start on that while being mobile. Golly, I might even watch Sonic the Hedgehog 3 tomorrow with my friends! Though, given the temporal proximity, a freshly acquired ticket might destroy my cervical spine for two hours.
 
 The surgeon hopes to reschedule my surgery for late January, if a new donor match is found soon.
 
@@ -31,4 +31,3 @@ With that said, you deserve my next GIF attempt to round off this delectably bit
 <center>
 	<em>Don't you dare ask me if I'm the girl in this.</em>
 </center>
-
