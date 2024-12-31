@@ -25,5 +25,5 @@ Some programming exercises, examples, and algorithms are implemented in [my Gith
 
 [Chapter 1: Introduction](/assets/pdfs/RLIntroductionCh1.pdf)  
 [Part 1: Tabular Solution Methods](/assets/pdfs/RLIntroductionPart1.pdf)  
-[Chapter 2: Multi-Armed Bandits](/assets/pdfs/RLIntroductionCh2.pdf)
-[Chapter 2: Finite Markov Decision Processes](/assets/pdfs/RLIntroductionCh3.pdf)
+[Chapter 2: Multi-Armed Bandits](/assets/pdfs/RLIntroductionCh2.pdf)  
+[Chapter 3: Finite Markov Decision Processes](/assets/pdfs/RLIntroductionCh3.pdf)
