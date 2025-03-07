@@ -28,4 +28,5 @@ Some programming exercises, examples, and algorithms are implemented in [my Gith
 [Chapter 2: Multi-Armed Bandits](/assets/pdfs/RLIntroductionCh2.pdf)  
 [Chapter 3: Finite Markov Decision Processes](/assets/pdfs/RLIntroductionCh3.pdf)  
 [Chapter 4: Dynamic Programming](/assets/pdfs/RLIntroductionCh4.pdf)  
-[Chapter 5: Monte Carlo Methods](/assets/pdfs/RLIntroductionCh5.pdf)
+[Chapter 5: Monte Carlo Methods](/assets/pdfs/RLIntroductionCh5.pdf)  
+[Chapter 6: Temporal Difference Learning](/assets/pdfs/RLIntroductionCh5.pdf)
