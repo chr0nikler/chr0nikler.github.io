@@ -31,5 +31,5 @@ Some programming exercises, examples, and algorithms are implemented in [my Gith
 [Chapter 5: Monte Carlo Methods](/assets/pdfs/RLIntroductionCh5.pdf)   
 [Project:  Right Turn Racer](/assets/other/rightTurnRacer.pdf)  
 [Chapter 6: Temporal Difference Learning](/assets/pdfs/RLIntroductionCh6.pdf)  
-[Project: CliffWarking](/assets/other/cliffwalking.html)   
+[Project: CliffWalking](/assets/other/cliffwalking.html)   
 [Chapter 7: n-step BootStrapping](/assets/pdfs/RLIntroductionCh7.pdf)
