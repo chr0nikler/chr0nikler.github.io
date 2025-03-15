@@ -3,10 +3,12 @@ title: Hello
 layout: default
 ---
 
-Hi. I'm Joraaver Chahal. I'm a software engineer and personal trainer trying to broaden my horizons. For example, my twin and I have launched an app focused on improving the standard of care for physical therapy after surgery, starting with [ACL reconstruction](https://diffzero.com).
+Hi. I'm Joraaver Chahal. I'm a software engineer constantly trying to broaden my horizons.
 
-I have some degree of expertise in software engineering and sports rehabilitation. I'd like to feel this way about business, money, writing, and music too. Time will tell. 
+I have some degree of expertise in software engineering and sports rehabilitation. The former,  through work. The latter,  as a personal trainer and someone who has been through the wringer with regards to injury. I'd like to learn about other topics too, like business, money, writing, music, etc. Time will tell. 
 
-Most of my free time is occupied playing video games or volleyball, learning the saxophone, and providing training services to others. This blog exists to ensure I practice writing using even prosaic topics if necessary.
+I've stopped trying to explain how I use my free time because it always changes with circumstances of my life. So instead, I'm going to tell you that my free time is occupied by either some focused mental work, some focused physical work, or some unfocused relaxation. I believe that covers the universe of activities. What those particular activities happen to be at any time is a anyone's guess.
+
+In spite of the above, this blog exists to ensure I practice writing, using even prosaic topics if necessary.
 
 Happy reading.
