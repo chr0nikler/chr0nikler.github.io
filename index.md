@@ -3,7 +3,7 @@ title: Hello
 layout: default
 ---
 
-Hi. I'm Joraaver Chahal. I'm a software engineer constantly trying to broaden my horizons.
+Hi. I'm Joraaver Chahal. I'm a software engineer and personal trainer constantly trying to broaden my horizons.
 
 I have some degree of expertise in software engineering and sports rehabilitation. The former,  through work. The latter,  as a personal trainer and someone who has been through the wringer with regards to injury. I'd like to learn about other topics too, such as business, money, writing, music, etc. Only time will tell. 
 
