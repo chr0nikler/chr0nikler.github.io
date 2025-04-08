@@ -32,4 +32,5 @@ Some programming exercises, examples, and algorithms are implemented in [my Gith
 [Project:  Right Turn Racer](/assets/other/rightTurnRacer.pdf)  
 [Chapter 6: Temporal Difference Learning](/assets/pdfs/RLIntroductionCh6.pdf)  
 [Project: CliffWalking](/assets/other/cliffwalking.html)   
-[Chapter 7: n-step BootStrapping](/assets/pdfs/RLIntroductionCh7.pdf)
+[Chapter 7: n-step BootStrapping](/assets/pdfs/RLIntroductionCh7.pdf)  
+[Chapter 8: Planning and Learning with Tabular Methods](/assets/pdfs/RLIntroductionCh7.pdf)
