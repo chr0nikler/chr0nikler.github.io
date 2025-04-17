@@ -35,5 +35,5 @@ Some programming exercises, examples, and algorithms are implemented in [my Gith
 [Chapter 7: n-step BootStrapping](/assets/pdfs/RLIntroductionCh7.pdf)  
 [Chapter 8: Planning and Learning with Tabular Methods](/assets/pdfs/RLIntroductionCh8.pdf)  
 [Chapter 9: On-policy Prediction with Approximation](/assets/pdfs/RLIntroductionCh9.pdf)  
-[Chapter 9: On-policy Control with Approximation](/assets/pdfs/RLIntroductionCh10.pdf)  
+[Chapter 10: On-policy Control with Approximation](/assets/pdfs/RLIntroductionCh10.pdf)  
 [Project: Mountain Car](/assets/other/mountain_car.html)
