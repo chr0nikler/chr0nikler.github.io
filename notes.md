@@ -37,4 +37,6 @@ Some programming exercises, examples, and algorithms are implemented in [my Gith
 [Chapter 9: On-policy Prediction with Approximation](/assets/pdfs/RLIntroductionCh9.pdf)  
 [Chapter 10: On-policy Control with Approximation](/assets/pdfs/RLIntroductionCh10.pdf)  
 [Project: Mountain Car](/assets/other/mountain_car.html)  
-[Chapter 11: Off-policy Methods with Approximation](/assets/pdfs/RLIntroductionCh11.pdf)
+[Chapter 11: Off-policy Methods with Approximation](/assets/pdfs/RLIntroductionCh11.pdf)  
+[Chapter 12: Eligibility Traces](/assets/pdfs/RLIntroductionCh12.pdf)  
+[Chapter 13: Policty Gradient Methods](/assets/pdfs/RLIntroductionCh13.pdf)
