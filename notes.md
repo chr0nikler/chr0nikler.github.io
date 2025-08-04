@@ -3,6 +3,9 @@ title: Notes
 layout: page
 ---
 
+### [Modern Robotics](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+[Project: Coursera Course 2: Robot Kinematics](/assets/other/mr_coursera_courser_2_project.html)
+
 ### [Foot and Ankle Biomechanics](https://www.sciencedirect.com/book/9780128154496/foot-and-ankle-biomechanics)
 [Chapter 1: Anatomy of the Foot](/assets/pdfs/FootAndAnkleBiomechanicsCh1.pdf)  
 [Chapter 2: Basic Biomechanics](/assets/pdfs/FootAndAnkleBiomechanicsCh2.pdf)  
