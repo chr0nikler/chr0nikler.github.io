@@ -6,7 +6,7 @@ tags:
 - writing
 ---
 
-I have long wrestled with the direction of my writing. Each time an idea sprouts in my mind, I am startled that I would dare to write it. It’s not that the topic isn’t worth writing. For me, in that moment, there can be nothing of greater worth, of greater import. No, it is because each topic demands more and more vulnerability from me, and because each demands it with an ever-growing fervor. And above all, that I would give in to those demands with increasing joy.
+I have long wrestled with the direction of my writing. Each time an idea sprouts in my mind, I am startled that I would dare write it. It’s not that the topic isn’t worth writing. For me, in that moment, there can be nothing of greater worth or greater import. No, it is because each topic demands more and more vulnerability from me, and because each demands it with an ever-growing fervor. And above all, that I would give in to those demands with increasing joy.
 
 This is the writer I have always wanted to be. The human I’ve always wanted to become. But this is not a path that has been modeled for me. It is not a type of thinking that has been celebrated. As such, embracing each topic is embracing my fear again and again and again. I step in the direction that scares me. And every time I publish, I am liberated. The words I put to paper you will read, and you will know my inner thoughts. The act of publishing relinquishes my control, freeing me. Surprisingly, I am rewarded for seeking that freedom. I have already been told by many that my writing, and before that, my spoken word, has moved them. For some, a simple shift in perspective. Others stirred to action. With every essay I write, the journey I embark on becomes easier and more palatable.
 
