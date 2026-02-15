@@ -9,7 +9,7 @@ A new hobby of mine is enjoying a cup of joe at 6 a.m. and attempting the New Yo
 
 But I started doing the crossword with a different aim: to practice the curiosity of knowledge, not the pursuit of knowledge. To my surprise, the activity taught me some unrelated lessons as well. 
 
-![Picture](https://chr0nikler.github.io/assets/images/aki_morning.webp){:style="display: block; margin: 0 auto" }
+![Picture]({{ '/assets/images/aki_morning.webp' | lfs_url }}){:style="display: block; margin: 0 auto" }
 <center>
 	<em>My identical morning routine. </em>
 </center>
@@ -44,7 +44,7 @@ Doing the crossword has changed that for me. I cherish the Sunday mornings spent
 
 This past weekend I could not do the Sunday crossword with my family. I was cat sitting in San Francisco for a cat I saw two, maybe three times maximum. On my way home Sunday, I stopped by a friend’s place to pick up a few trinkets he bought from his recent trip to France. This is a friend I’ve hung out with occasionally over the past ten years, but our main tether has always been video games (specifically Rocket League for my cultured readers). I’ve always felt a twinge of regret for not hanging out with him outside our virtual bubble. Though, as I write, I’m reminded of the day I missed watching Finding Dory, instead forced to enjoy ice cream from the local Cold Stone Creamery on a bench outside the theaters as only a lonely man can, thanks to hilarity only four fresh college grads could manage.
 
-![Picture](https://chr0nikler.github.io/assets/images/cinemark.png){:style="display: block; margin: 0 auto" }
+![Picture]({{ '/assets/images/cinemark.png' | lfs_url }}){:style="display: block; margin: 0 auto" }
 <center>
 	<em> Main: In light blue, me, in the precise location I sat alone and ate ice cream from Cold Stone Creamery. Insert: map demonstrating the location of said ice cream store. Not depicted: my friends inside, watching the movie without me.</em>
 </center>

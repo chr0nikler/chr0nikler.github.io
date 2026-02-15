@@ -10,11 +10,11 @@ When you send a newsletter with a splendid animated image that doubles up as sle
 
 Based on statistics, the majority of my readers used an iPhone to read [my previous post](https://www.joraaverchahal.com/blog/crosswords-and-completion). If they are true enjoyers of the ecosystem, they used Apple Mail to view it, and saw what I wanted them to see:
 
-![aki_morning](https://chr0nikler.github.io/assets/images/aki_morning.gif){:style="display: block; margin: 0 auto" }
+![aki_morning]({{ '/assets/images/aki_morning.gif' | lfs_url }}){:style="display: block; margin: 0 auto" }
 
 But the cows amongst us that graze upon emails in the sere (check it, vocabulary word learned via my crosswords) lands of Gmail saw this: 
 
-![aki_morning](https://chr0nikler.github.io/assets/images/aki_morning.jpg){:style="display: block; margin: 0 auto" }
+![aki_morning]({{ '/assets/images/aki_morning.jpg' | lfs_url }}){:style="display: block; margin: 0 auto" }
 <center>
 	<em> No offense to cows.<sup>1</sup></em>
 </center>
@@ -29,11 +29,11 @@ You can use the link I just provided to read the details, but the main ideas are
 
 As the source says, the WebP file is a third the size of the GIF I'm using now:
 
-![aki_size](https://chr0nikler.github.io/assets/images/aki_size.png){:style="display: block; margin: 0 auto" }
+![aki_size]({{ '/assets/images/aki_size.png' | lfs_url }}){:style="display: block; margin: 0 auto" }
 
 But by golly would you look at the support statistics:
 
-![webp_support](https://chr0nikler.github.io/assets/images/web_support.png){:style="display: block; margin: 0 auto" }
+![webp_support]({{ '/assets/images/web_support.png' | lfs_url}}){:style="display: block; margin: 0 auto" }
 <center>
 	<em>How to join the 2.38%</em>
 </center>
@@ -42,7 +42,7 @@ How every other client can support the next-gen standard **except** the client o
 
 To drill the point home, this is a screengrab from my client. You can see the frame was grabbed as a JPEG, despite the fetch url being WebP: 
 
-![aki_crop](https://chr0nikler.github.io/assets/images/aki_crop.png){:style="display: block; margin: 0 auto" }
+![aki_crop]({{ '/assets/images/aki_crop.png' | lfs_url }}){:style="display: block; margin: 0 auto" }
 
 All this to say, screw me for using Gmail or a "next gen" format that was started in 2010. 
 

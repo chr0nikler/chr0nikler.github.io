@@ -16,7 +16,7 @@ Of course, even temporary blisses aren't afforded to me.
 
 If that's the case, then neither should they for you:
 
-![Shaved leg](https://chr0nikler.github.io/assets/images/shaved_leg.jpg){:style="display: block; margin: 0 auto; width: 50%" }
+![Shaved leg]({{ '/assets/images/shaved_leg.jpg' | lfs_url }}){:style="display: block; margin: 0 auto; width: 50%" }
 <center>
 	<em>Demonic</em>
 </center>
@@ -27,8 +27,7 @@ The surgeon hopes to reschedule my surgery for late January, if a new donor matc
 
 With that said, you deserve my next GIF attempt to round off this delectably bite-sized post:
 
-![Edward Liore GIF](https://chr0nikler.github.io/assets/images/FMAB.gif){:style="display: block; margin: 0 auto" }
+![Edward Liore GIF]({{ '/assets/images/FMAB.gif' | lfs_url}}){:style="display: block; margin: 0 auto" }
 <center>
 	<em>Don't you dare ask me if I'm the girl in this.</em>
 </center>
-
