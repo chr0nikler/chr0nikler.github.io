@@ -8,8 +8,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem "jekyll", "~> 4.3.1"
-#
+gem "jekyll", "~> 4.4.1"
+
 gem 'rack'
 gem 'rackup' 
 
@@ -44,3 +44,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # theme
 gem "hitchens-theme"
+
+

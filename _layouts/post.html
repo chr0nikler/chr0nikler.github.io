@@ -15,6 +15,10 @@ layout: compress
 
     {{ page.content }}
 
+    <br />
+    {% for tag in page.tags %}
+	<i>#{{tag}}</i>
+    {% endfor %}
 
 
 </main>
