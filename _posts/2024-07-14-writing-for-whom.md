@@ -19,10 +19,7 @@ This is a lie. I know this to be a lie. I wish I were so noble. Long ago I even 
 
 You the man, George. If I didn't want someone to read my work, I’d go write in my journal. Instead, I sit here, thinking harder than I should about a collection of words, editing it again and again, with the hope that it may resonate with someone. 
 
-<p align="center">
-	<img src="https://chr0nikler.github.io/assets/images/personal_essay_small.png">
-</p>
-
+![small]({{ '/assets/images/personal_essay_small.png' | lfs_url }}){:style="display: block; margin: auto" }
 
 This book, collecting dust in my library, entreats me to be read, but with a gentler ambition than my initial attempts: one essay at a time. The fault is mine, the completionist that I am; eighty pages in and I haven’t picked it up since. It is my primary inspiration to write, but I always fight to craft  the language that seems so effortless to those essayists. Some day my writing style won’t be because that’s all I know, but because I have chosen it amongst all I know. Till then, one must read more and write more. Although, Oscar Wilde consoles me:
 

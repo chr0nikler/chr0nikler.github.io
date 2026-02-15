@@ -60,7 +60,7 @@ A grade called the [Kellgren-Lawrence grade (a.k.a KL grade)](https://empendium.
 
 To maximize understanding of the grades, here's an image from a research paper about using machine learning to automatically classify imaging of a possibly osteoarthritic knee joint:
 
-<img src="https://chr0nikler.github.io/assets/images/KG_osteo.webp" />
+![osteo]({{ '/assets/images/KG_osteo.webp' | lfs_url }}){:style="display: block; margin: auto" }
 
 Looking for all the variables listed above may be difficult to the untrained eye. The easiest ones to identify when comparing a grade 4 vs grade 0 joint are joint space narrowing and the presence of osteophytes. I'm not going to go into the details of how to identify the variables and what the thresholds are (because I am not trained in the reading of said images either) but note that the criteria exist.
 

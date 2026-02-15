@@ -8,9 +8,10 @@ tags:
 
 *Success is an unfailing mindset repeatedly committed to and acted upon.*
 
-
-<img src="https://chr0nikler.github.io/assets/images/motb_shot.jpg" />
-<em>Taking a picture of a book is not a simple thing</em>
+![]({{ '/assets/images/motb_shot.jpg' | lfs_url }})
+<center>
+	<em>Taking a picture of a book is not a simple thing</em>
+</center>
 
 *The Magic of Thinking Big*, by Dr. David J. Schwartz, is a short and measured reminder of who we can be, of who we still could be. At work, in society, at home: everywhere, the chance to improve one's current conditions lies in the ability to think "big." According to Dr. Schwartz, thinking "big" amounts to positivity, action, personability, and the relentless pursuit that comes with self-improvement. He occasionally neglects unforgiving circumstances in favor of his "can do" attitude, but that doesn't detract from his message on what it takes to think "big."  Dr. Schwartz provides excellent examples and exercises that gently guide you through what thinking "big" looks like. He encourages you to work on a variety of tasks such writing your own pep talk, drafting what you specifically want ten years from now, and asking questions of people you'd normally fear asking to see how they respond. I couldn't help but compare my life experiences to his examples, noting where I had done well or where I had fallen short. The thought exercise alone is worth it, but Dr. Schwartz would be quick to point out that thought alone does not bring about success.
 

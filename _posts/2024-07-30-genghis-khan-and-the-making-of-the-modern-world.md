@@ -7,9 +7,7 @@ tags:
 
 *Reading Time: 21 minutes*
 
-<p align="center">
-	<img src="https://chr0nikler.github.io/assets/images/GKW2.jpg">
-</p>
+![book]({{ '/assets/images/GKW2.jpg' | lfs_url }}){:style="display: block; margin: auto" }
 
 
 Before I discuss the book <u>Genghis Khan and the Making of the Modern World</u> by Jack Weatherford, I must regale you with a hilarious story about why I read this book.
@@ -64,11 +62,12 @@ One question my dinner table posed: was he a front-line fighter, or a king who s
 
 I’ll wrap up this section with a small blurb on geography, because war and geography are inseparable.
 
-<p align="center">
-	<img src="https://chr0nikler.github.io/assets/images/mongol_empire.jpg">
-  	<em>Courtesy of Freeman-pedia</em>
 
-</p>
+![empire]({{'/assets/images/mongol_empire.jpg' | lfs_url }})
+<center>
+  	<em>Courtesy of Freeman-pedia</em>
+</center>
+
 
 
 This is the peak of the Mongol empire in 1294, sixty-seven years after Genghis Khan passed away. His sons did what they could to expand the empire, but their interests would never align in a singular vision the way Genghis Khan intended. For example, the son that took over his position insisted on building a capital city that he would occupy, rather than constantly be on the front lines. The idea of a central city for the Mongol Empire flew in the face of Genghis Khan’s operating style and what made his conquest viable. Still, they grew the empire where possible, even challenging Japan from the shores of Korea. The four corners that marked the edge of the Mongol Empire are the southern edge of China, the shores of Korea, the tip of Egypt, and just beyond the Crimea in current day Ukraine.
@@ -131,14 +130,11 @@ Voltaire published a play using Genghis Khan and the Mongol people as a way to a
 
 Later, during the Enlightenment Period in Europe, scientists started classifying everything, including humans. If the Caucasian features ranked the highest in terms of intelligence and beauty, the Mongol features became associated with everything ugly and stupid. Don’t assume this is an idea far removed from our time period. Here is a ngram chart for the term “mongoloid” which is classified as “offensive” and defined as “an old-fashioned term for a person with Down syndrome”:
 
-<p align="center">
-	<img src="https://chr0nikler.github.io/assets/images/mongoloid_usage.png">
-</p>
+![usage]({{ '/assets/images/mongoloid_usage.png' | lfs_url }})
 
 What Genghis Khan represents is a beautiful illustration of the arc of history and knowledge. He is well-known for his military ferocity and for the empire he once ruled. I now know him for his willingness to break social norms, his leadership skills as a uniter of people, and his innovation in military, law, politics, economics, religion, and writing. But for the uneducated, it is the single paragraph or two about terror and violence in a history textbook on world history that is remembered. The usage of the offensive word previously defined indicates that although the belief about Mongol facial features and intelligence may not be as pervasive as it once was, it still holds root and reminds us that the words we use reflect beliefs, even ones we do not consciously support or maintain.
 
 ---
 
-    
 
 That wasn’t too long a summary, was it? Thanks for reading this to the end if you did. As always, I write these essays to consolidate my knowledge, hoping I retain half of what I’ve written and an eighth of what I’ve read. If you want to know more, I urge you to pick up the book to fill in all the gaps about the coming and going of the man named Genghis Khan.

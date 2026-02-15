@@ -46,9 +46,7 @@ Second, its symptoms are simple:
 3. Your pain begins as a slight soreness in the morning that goes away with a little warm-up, but over the course of a few months it becomes a constant pain, occurring during sport or walking down the stairs. 
 4. You participate in an extremely heavy jumping or cutting sport.
 
-<figure>
-  <img src="https://chr0nikler.github.io/assets/images/tendon_pain_location.jpg" />
-</figure>
+![location]({{ '/assets/images/tendon_pain_location.jpg' | lfs_url }}){:style="display: block; margin: auto" }
 
 Third, it's cause is best summarized by Jake Tuura as follows: "it's always a load issue, and sometimes it's a biomechanics issue." What he means by that is an individual suffering from Jumper's Knee might have tight or weak muscles leading to improper movement patterns, or have none of that. Regardless, the sufferer went from doing little or no jumping or cutting, to doing a lot of jumping or cutting, in a very short amount of time. That spike in volume brought on the condition.
 
@@ -114,12 +112,10 @@ I did 5 sets of 45 second holds of the Spanish Squat with 60-120 seconds of rest
 
 Fragile, easily provoked tendons can take 6-8 weeks of diligent rehab before changes are felt. This tracks with my experience. Do not give up if you feel nothing has changed. Tendon function is like a step function. You'll feel nothing change until, overnight, you feel everything change. Take it all in stride.
 
-<figure>
-  <img class="content" src="https://chr0nikler.github.io/assets/images/step_function_2.png" />
+![step]({{ '/assets/images/step_function_2.png' | lfs_url }}){:style="display: block; margin: auto" }
+<center>
   <em>The pain will fluctuate slightly during your training until a certain point, after which significant relief is felt and pain stabilizes around a new, lower point. All the while function of knee, or what load it is capable of lifting, while experiencing the same amount of pain, will slowly increase.</em>
-</figure>
-
-
+	</center>
 ### Stage 2: Isotonics
 
 **Isotonics** is another word for regular exercises. A squat is an isotonic exercise. When you move the muscle through a certain range of motion against resistance, that's an isotonic. 
@@ -136,10 +132,10 @@ At the end of each of Jake Tuura's videos, Jake says, "Try it, see if it works f
 
 On that note, I tried all the recommendations. None of them made me feel "good." This was again, discouraging. After all, Jake Tuura touts the Leg Extension as the gold standard of patellar tendon rehab.  So I took a look at all my options, and landed on this machine:
 
-<figure>
-  <img class="content" src="https://chr0nikler.github.io/assets/images/machine_leg_press.jpg" />
+![]({{ '?assets/images/machine_leg_press.jpg' | lfs_url }}){:style="display: block; margin: auto" }
+<center>
   <em>Most standard commercial gyms have this</em>
-</figure>
+</center>
 
 Machine Leg Press is its name.
 
@@ -153,11 +149,10 @@ Does that sound like impressive progress? Don't be so surprised. Once you get th
 
 If you are like me, you are in this position not only because you jumped a lot, but because you did so while being weak. Rehab exposes your weakness. I began to find 4 sets of 8 reps doing 3 seconds down, 3 seconds up with 100lb on one leg taxing. That had to change. Here is my training log from the end of August till January 11 2023 (read it from the bottom up): 
 
-<figure>
-  <img src="https://chr0nikler.github.io/assets/images/machine_leg_press_tracked.png" />
-  <br/>
+![tracked]({{ '/assets/images/machine_leg_press_tracked.png' | lfs_url }}){:style="display: block; margin: auto" }
+<center>
   <em>I'm using a software named QuickCoach to track workouts</em>
-</figure>
+</center>
 
 From August to early December, I was making good progress. Any lifter would be envious of such easy progress. But that's what tendon rehab looks like if done well. The pain didn't change during those weeks, but function was improving hand over fist. Then, in mid December, I committed to playing in the Winter 2023 Industrial Volleyball League (IVL) season. I decided that my eccentric needs far outweighed my concentric needs. I didn't care for how high I jumped. I just needed to be able to handle 80+ landings a night. My decision to switch was also influenced by research on the specificity of training regarding eccentric only training vs eccentric concentric training, in which the concentric group got better at concentric based testing. I surprised myself with how much progress I made in those 4 weeks, handling up to 200 lbs eccentrically for 4 seconds for 3 sets of 5. January 10th, 2023 was our first match. 
 
@@ -175,16 +170,15 @@ I mapped out exactly how often I would be jumping as a middle blocker by using t
 
 Here are the main infographics reproduced:
 
-<figure>
-  <img class="content" src="https://chr0nikler.github.io/assets/images/jumps_per_match.webp" />
+![jumps]({{ '/assets/images/jumps_per_match.webp' | lfs_url }}){:style="display: block; margin: auto" }
+<center>
   <em>Middle blockers jump about 100 times over the course of a match, with each jump about 75% their max jump height.</em>
-</figure>
+</center>
 
-
-<figure>
-  <img class="content" src="https://chr0nikler.github.io/assets/images/jumps_per_set.png"/>
+![set]({{'/assets/images/jumps_per_set.png' | lfs_url }}){:style="display: block; margin: auto" }
+<center>
   <em>Middle blockers jump about 22-25 times a set.</em>
-</figure>
+</center>
 
 Our game nights were four sets, so I decided that reaching 80-100 maximum jumps with no pain the next day would deem me ready. I worked backwards from there. As always, I stuck to the principle of volume first, then intensity.
 
@@ -211,11 +205,10 @@ By the start of January, I had completed my training. But I was still nervous. H
 
 Given all the points above, I even filled out a questionnaire to put my feelings into a quantitative measure of readiness. This is known as the [VISA-P](https://www.sralab.org/rehabilitation-measures/victorian-institute-sport-assessment-visa-questionnaire-patellar-tendon).
 
-<figure>
-  <img class="content" src="https://chr0nikler.github.io/assets/images/visap_jan_08.png" />
-  <br/>
+![]({{ '/assets/images/visap_jan_08.png' | lfs_url}}){:style="display: block; margin: auto" }
+<center>
   <em>Is a 72 good or bad? Hard to say, but I was okay with it. Heavy emphasis on "okay."</em>
-</figure>
+</center>
 
 I haven't seen many individuals discuss or use the VISA-P. However, it did expose a glaring weakness in my single-leg hopping confidence. To this date, single-leg jumping scares me the most. I'm working on it, starting with horizontal bounding, but it's still a work in progress.
 
@@ -228,20 +221,19 @@ I've been playing volleyball two to three times a week as a middle blocker or ou
 
 Here's my progress on that same exercise:
 
-<figure>
-  <img class="content" src="https://chr0nikler.github.io/assets/images/machine_leg_press_tracked_v2.png" />
+![]({{ '/assets/images/machine_leg_press_tracked_v2.png' | lfs_url}}){:style="display: block; margin: auto" }
+<center>
   <em>Once again, latest workout is at the top. Since taking these screenshots I've still progressed, but more slowly. </em>
-</figure>
+</center>
 
 It took me four months to go from nothing to 3 sets of 5 reps of 150 lb with 180 seconds rest at about a 2 second down, 2 second up pace, and then another seven months to up that to 160 lbs. That's not great progress. However, given that I never stopped playing volleyball two-three times a week, and only proceeded to get stronger, jump higher (for another post), and get better at my sport, it's a win-win in my book.
 
 I took another VISA-P at the beginning of August too:
 
-<figure>
-  <img class="content" src="https://chr0nikler.github.io/assets/images/visap_aug_05.png" />
-  <br/>
+![]({{ '/assets/images/visap_aug_05.png' | lfs_url }}){:style="display: block; margin: auto" }
+<center>
   <em>Anything in the 90's must be fantastic</em>
-</figure>
+</center>
 
 As you can see, I am now much more confident in my hopping abilities. Single leg hopping isn't perfect, but my confidence and perception of pain are improving too.
 

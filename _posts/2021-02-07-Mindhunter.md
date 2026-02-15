@@ -8,7 +8,7 @@ tags:
 
 *"To understand the 'artist,' you must study his 'art.'"*
 
-<img src="https://chr0nikler.github.io/assets/images/mindhunter.jpg" />
+![]({{'/assets/images/mindhunter.jpg' | lfs_url}}){:style="display: block; margin: auto" }
 
 Even before cracking it open, I knew I would enjoy *MindHunter*. Everything I yearn for in my stories&mdash;profiling, psychology, serial killers, enormous stakes, eventual justice&mdash;this book had it, only in real life. *MindHunter* is a gripping retelling of John E. Douglas's life's work as an FBI agent catching serial killers, and a genuine example of how, even within a bureaucratic organization like the FBI, conviction and passion can find new ways to solve long-standing problems.
 
