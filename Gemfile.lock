@@ -13,8 +13,12 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.3-arm64-darwin)
+    ffi (1.17.3-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     google-protobuf (4.33.5-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.33.5-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
     hitchens-theme (0.8.0)
@@ -94,6 +98,8 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.97.3-arm64-darwin)
       google-protobuf (~> 4.31)
+    sass-embedded (1.97.3-x86_64-linux-gnu)
+      google-protobuf (~> 4.31)
     sinatra (4.0.0)
       mustermann (~> 3.0)
       rack (>= 3.0.0, < 4)
@@ -115,6 +121,7 @@ GEM
 PLATFORMS
   arm64-darwin-21
   arm64-darwin-25
+  x86_64-linux
 
 DEPENDENCIES
   hitchens-theme
