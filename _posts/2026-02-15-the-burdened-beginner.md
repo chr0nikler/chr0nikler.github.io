@@ -11,7 +11,7 @@ The unoccupied hours of a swift January were spent in my den as I tinkered with 
 The month was spent building this:
 <center>
 	<video width="500" muted autoplay controls muted loop>
-		<source src="{{'/assets/videos/firstPCBCase.mp4'|relative_url}}" type="video/mp4" >
+		<source src="{{'/assets/videos/firstPCBCase.mp4'|lfs_url}}" type="video/mp4" >
 	</video>
 </center>
 
@@ -43,7 +43,7 @@ So I ordered it to be shipped. In the modern age, printing boards is way simpler
 
 In about nine days, I got this beautiful piece of work. Look at it:
 
-![firstPCB]({{ 'assets/images/firstPCB.png' | relative_url }}){:style="display: block; margin: auto" }
+![firstPCB]({{ '/assets/images/firstPCB.png' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>chr0nikler is my default online moniker</em>
 </center>
@@ -58,14 +58,14 @@ This isn't the end of the thought, but it is a glimpse at how easily I force mys
 
 After staring at a render that I was convinced was right and then patiently waiting another seven days, I finally verified that everything fit well on the new board.
 
-![flow]({{ 'assets/images/fullPCBFLow.png' | relative_url }}){:style="display: block; margin: auto" }
+![flow]({{ '/assets/images/fullPCBFLow.png' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>Top: Simple schematic in KiCAD. Middle: PCB layout and render. Bottom-left: received boards. Bottom-right: Verification</em>
 </center>
 ### Soldering
 It may sound dubious that an electrical engineer can graduate without doing any [soldering](https://en.wikipedia.org/wiki/Soldering), one of the most practical skills necessary for playing around with semi-permant circuits. I have two counter-arguments. First is my graduate book photo, which is the moment I realized that initialism degree lookup was not a standard practice.
 
-![badSolder]({{ 'assets/images/graduatePhoto.jpg' | relative_url }}){:style="display: block; margin: auto" }
+![badSolder]({{ '/assets/images/graduatePhoto.jpg' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>CSE is Computer Science and Engineering, specifically Electrical Engineering. Imagine the self-denigration I experience every time I have to explain that next to my Berkeley EECS friends.</em>
 </center>
@@ -82,7 +82,7 @@ Then came the tools. Analysis paralysis is a place I never want to call home, bu
 
 Put these all together in my first practice attempt, and this is the result:
 
-![badSolder]({{ 'assets/images/BadSolder.jpg' | relative_url }}){:style="display: block; margin: auto" }
+![badSolder]({{ '/assets/images/BadSolder.jpg' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>I can smell the fumes from this horrid job.</em>
 </center>
@@ -101,7 +101,7 @@ When I first wrote the list above, it dawned on me that even here, in my writing
 
 This is one of the most abrupt transitions sentences you've ever read, but bear with me and witness my next attempt after watching a couple of videos, ordering some desolder wick, and improving my planning:
 
-![goodSolder]({{ 'assets/images/GoodSolder.png' | relative_url }}){:style="display: block; margin: auto" }
+![goodSolder]({{ '/assets/images/GoodSolder.png' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>Bonus bottom picture of my work on an Adafruit IMU (Inertial Measurement Unit)</em>
 </center>
@@ -117,11 +117,11 @@ Unlike the previous parts of my story, everything gets better now. Because I kne
 
 The joy I felt when this unaesthetic but dimensionally accurate print came out was unparalleled:
 
-![cube]({{ 'assets/images/cube.jpg' | relative_url }}){:style="display: block; margin: auto" }
+![cube]({{ '/assets/images/cube.jpg' | lfs_url }}){:style="display: block; margin: auto" }
 
 I then transitioned to learning FreeCAD, a FOSS CAD tool, to design a snap-enclosure case for my PCB. After struggling with supports for about a day,  and then fiddling with my tolerances to get the feel right, I got the case exactly the way I wanted.
 
-![goodSolder]({{ 'assets/images/freeCADPrints.png' | relative_url }}){:style="display: block; margin: auto" }
+![goodSolder]({{ '/assets/images/freeCADPrints.png' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>Top: FreeCAD design. Middle: Failures. Bottom: Working case, albeit poor layer integrity.</em>
 </center>
@@ -142,7 +142,7 @@ Raise your ceiling. Break it again and again. Don't neglect your floor. Shore it
 
 For those who start new trajectories later in life, there will always be burdens that must be left behind in order to truly excel. In that sense, after a certain age, there are no unburdened beginners. All new skills are approached with the biases that shape our perspectives. Some biases you lean into, while others must be tamed.<sup>1</sup> On the other side of those questions is a stronger identity and greater sense of fulfillment. Once you know the feeling, then you will surely find joy in being the burdened beginner.
 
-![mySpace]({{ 'assets/images/mySpace.jpg' | relative_url }}){:style="display: block; margin: auto" }
+![mySpace]({{ '/assets/images/mySpace.jpg' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>Where the magic happens.</em>
 </center>
