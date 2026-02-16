@@ -27,7 +27,7 @@ Correct! 
 
 I joined the crowd in my old shirt and jeans and we found our way without making too much of a scene. I forget how much healthcare is a female dominated field. In our group of twenty-one students, only three were men. As for professions, there were massage therapists, physician assistants, yoga instructors, acupuncturists, physical therapists, personal trainers, aspiring medical students going to college, and of course, me, a software engineer. Oh, and a high schooler who had already been doing dissections for over a year. She was only here to do a full dissection of the hand. Diverse crowd.
 
-![group](https://chr0nikler.github.io/assets/images/dissection_group.jpg){:style="display: block; margin: auto" }
+![group]({{'/assets/images/dissection_group.jpg'|lfs_url}}){:style="display: block; margin: auto" }
 <center>
 	<em>The full squad.</em>
 </center>
@@ -51,7 +51,7 @@ Everything sticks together. Fascia covers everything. Outlines everything. Envel
 
 Case in point, and eye opening for me, were the intricacies of the fascia as I dissected the sole of the foot to uncover the insertion of the flexor hallucis longus (henceforth FHL) into the first metatarsal. If I tugged on the tendon from the base of the foot, flexion of the great toe was obvious. However, if I reached into the calf and tugged on the muscle belly of the FHL, the smaller digits flexed alongside the great toe, but to a lesser degree. The flexor digitorum longus (FDL) and FHL run through the same retinaculum and overall fascia that holds the tendons in place. Does that mean you can’t train the FHL independently? Not quite. After all, I’m manipulating a dead body. Nothing at all like a live subject. All that matters regarding exercise prescription is if you can stimulate the desired muscle and how important other muscle activation is to you. If you can isolate, isolate. If you can’t, don’t stress. In fact, understanding that the fascia also adapts to the ways we move is quintessential to moving well in a variety of domains that require speed, not just force, and is often a neglected aspect of inexperienced movement practitioners’ training plans.
 
-![foot](https://chr0nikler.github.io/assets/images/dissection_foot.png){:style="display: block; margin: auto" }
+![foot]({{'/assets/images/dissection_foot.png' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>Extrinsic plantar muscle tendons of the foot, just as the textbook photo caption says.</em>
 </center>
@@ -82,7 +82,7 @@ On a separate note, because I was the only student doing a deep dive of the foot
 
 Unfortunately, I don’t have many pictures to share of the experience. We weren’t allowed to take pictures during the dissection, for obvious reasons, but I have a pretty cool one in their lecture area:
 
-![heart](https://chr0nikler.github.io/assets/images/dissection_heart.jpg){:style="display: block; width: 50%; margin: auto" }
+![heart]({{'/assets/images/dissection_heart.jpg'|lfs_url}}){:style="display: block; width: 50%; margin: auto" }
 <center>
 	<em>A grassy heart. </em>
 </center>

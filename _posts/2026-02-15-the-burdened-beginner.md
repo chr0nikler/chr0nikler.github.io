@@ -12,7 +12,7 @@ The month was spent building this (high quality [video here](https://youtu.be/d3
 
 ![pcb_case_demo]({{ '/assets/images/first_pcb_case_640w.gif' | lfs_url }}){:style="display: block; margin: 0 auto" }
 
-It is exactly what it looks like. A box with alternating yellow and blue blinking LEDs. But for me, it represents a persistent engagement with aspects of time I didn't practice before. I hope that as I explain to you the skills I've developed, I'll evince the fear and struggle I've tried to overcome. This is a simple, boring project, but like most good stories, its complications are the highlights.
+It is exactly what it looks like. A box with alternating yellow and blue blinking LEDs. But for me, it’s the start of learning how to dance with time instead of chasing it. I hope that as I explain to you the skills I've developed, I'll evince the fear and struggle I've tried to overcome. This is a simple, boring project, but like most good stories, its complications are the highlights.
 ## Idea and Work
 
 The germinating concept in my mind is a physical device. It should be a straightforward device, but the three big obstacles are:
