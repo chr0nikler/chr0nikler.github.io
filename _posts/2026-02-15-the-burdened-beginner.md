@@ -8,12 +8,9 @@ tags:
 
 The unoccupied hours of a swift January were spent in my den as I tinkered with new pieces of equipment to work on a budding idea. I was so close to making this my first technical post. But as I started to write, it became evident that my subconscious had a different objective. Thus, I want to address the theme of this post and the lens through which I viewed most of January, inspired by my partner: that of the beginner. My title is just an initial and, as we'll see, mistaken interpretation of the idea. While engaging in my curiosities and learning to let go, I was taught how out of my element I was. My patience has grown as a result. I am doing everything I want, and I am learning to embrace most of what that entails.
 
-The month was spent building this:
-<center>
-	<video width="500" muted autoplay controls muted loop>
-		<source src="{{'/assets/videos/firstPCBCase.mp4'|lfs_url}}" type="video/mp4" >
-	</video>
-</center>
+The month was spent building this (high quality [video here](https://youtu.be/d3VM4TM9Gi0)):
+
+![pcb_case_demo]({{ '/assets/images/first_pcb_case_640w.gif' | lfs_url }}){:style="display: block; margin: 0 auto" }
 
 It is exactly what it looks like. A box with alternating yellow and blue blinking LEDs. But for me, it represents a persistent engagement with aspects of time I didn't practice before. I hope that as I explain to you the skills I've developed, I'll evince the fear and struggle I've tried to overcome. This is a simple, boring project, but like most good stories, its complications are the highlights.
 ## Idea and Work
