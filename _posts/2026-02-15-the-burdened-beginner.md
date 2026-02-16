@@ -58,7 +58,7 @@ This isn't the end of the thought, but it is a glimpse at how easily I force mys
 
 After staring at a render that I was convinced was right and then patiently waiting another seven days, I finally verified that everything fit well on the new board.
 
-![flow]({{ '/assets/images/fullPCBFLow.png' | lfs_url }}){:style="display: block; margin: auto" }
+![flow]({{ '/assets/images/fullPCBFlow.png' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
 	<em>Top: Simple schematic in KiCad. Middle: PCB layout and render. Bottom-left: received boards. Bottom-right: Verification</em>
 </center>
