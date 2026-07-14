@@ -1,6 +1,6 @@
 ---
-title: Discovery Log
-layout: discovery-log
-permalink: "/discovery-log"
+title: Project Log
+layout: project-log
+permalink: "/project-log"
 ---
 
