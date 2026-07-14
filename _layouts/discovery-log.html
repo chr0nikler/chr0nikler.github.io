@@ -1,0 +1,36 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<main>
+
+    {% include header.html %}
+
+    {{ content }}
+
+    <ul class="blog-posts">
+        {% assign log_posts = site.posts | where_exp: "post", "post.layout == 'log'" %}
+        {% for post in log_posts %}
+        <li>
+            <span>
+                <i>
+                    <time datetime="2022-01-28" pubdate="">
+                        {{ post.date | date: "%b %-d, %Y" }}
+                    </time>
+                </i>
+            </span>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+
+    </ul>
+
+</main>
+
+{% include footer.html %}
+
+</body>
+
+</html>

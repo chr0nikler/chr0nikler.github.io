@@ -61,6 +61,12 @@ defaults:
       type: my_tags
     values:
       layout: tagged
+  -
+    scope:
+      path: "_posts/log"
+    values:
+      layout: log
+      permalink: /discovery-log/:slug/
 
 # baseurl: ""
 permalink: /blog/:slug
@@ -85,6 +91,7 @@ jekyll_admin:
 
 # Add general links to site pages here
 links:
+  'Discovery Log': /discovery-log
   'Personal Training': /training
   'Notes': /notes
 

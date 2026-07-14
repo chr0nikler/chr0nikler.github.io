@@ -19,6 +19,7 @@ layout: compress
         {% endfor %}
         {% for post in post_list %}
         {% unless post == previous %}
+        {% unless post.layout == 'log' %}
         <li>
             <span>
                 <i>
@@ -29,6 +30,7 @@ layout: compress
             </span>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
+        {% endunless %}
         {% endunless %}
         {% assign previous = post %}
         {% endfor %}

@@ -1,0 +1,30 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<main>
+
+    {% include header.html %}
+
+
+    <h1>{{ page.title }}</h1>
+    <i>{{ page.date | date: "%b %d, %Y" }}</i>
+    <h4 class="subtitle">{{ page.subtitle }}</h4>
+
+    {{ page.content }}
+
+    <br />
+    {% for tag in page.tags %}
+	<i>#{{tag}}</i>
+    {% endfor %}
+
+
+</main>
+
+{% include footer-log.html %}
+
+</body>
+
+</html>
