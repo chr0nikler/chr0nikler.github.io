@@ -132,7 +132,7 @@ At the end of each of Jake Tuura's videos, Jake says, "Try it, see if it works f
 
 On that note, I tried all the recommendations. None of them made me feel "good." This was again, discouraging. After all, Jake Tuura touts the Leg Extension as the gold standard of patellar tendon rehab.  So I took a look at all my options, and landed on this machine:
 
-![]({{ '?assets/images/machine_leg_press.jpg' | lfs_url }}){:style="display: block; margin: auto" }
+![]({{ '/assets/images/machine_leg_press.jpg' | lfs_url }}){:style="display: block; margin: auto" }
 <center>
   <em>Most standard commercial gyms have this</em>
 </center>
